@@ -1,0 +1,1412 @@
+[19128] 16 Apr 15:52:58.503 # --- Memurai is starting ---
+[19128] 16 Apr 15:52:58.507 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=19128, just started
+[19128] 16 Apr 15:52:58.507 # Service-name=Memurai
+[19128] 16 Apr 15:52:58.507 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[19128] 16 Apr 15:52:58.511 # Configuration loaded
+[19128] 16 Apr 15:52:58.511 * monotonic clock: Windows QueryPerformanceCounter
+[19128] 16 Apr 15:52:58.515 * Running mode=standalone, port=6379.
+[19128] 16 Apr 15:52:58.523 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D1D48DCCA204;AF2DC82BA2C43509;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[19128] 16 Apr 15:52:58.523 * Server initialized
+[19128] 16 Apr 15:52:58.523 * Ready to accept connections tcp
+[19128] 16 Apr 21:36:57.248 * Service stopping
+[19128] 16 Apr 21:36:57.263 * User requested shutdown...
+[19128] 16 Apr 21:36:57.263 * Saving the final RDB snapshot before exiting.
+[19128] 16 Apr 21:36:57.263 * DB saved on disk
+[19128] 16 Apr 21:36:58.220 # Memurai is now ready to exit, bye bye...
+[5640] 16 Apr 21:37:52.837 # --- Memurai is starting ---
+[5640] 16 Apr 21:37:52.838 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5640, just started
+[5640] 16 Apr 21:37:52.840 # Service-name=Memurai
+[5640] 16 Apr 21:37:52.841 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5640] 16 Apr 21:37:52.842 # Configuration loaded
+[5640] 16 Apr 21:37:52.844 * monotonic clock: Windows QueryPerformanceCounter
+[5640] 16 Apr 21:37:52.852 * Running mode=standalone, port=6379.
+[5640] 16 Apr 21:37:52.873 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5640] 16 Apr 21:37:52.876 * Server initialized
+[5640] 16 Apr 21:37:52.878 * Loading RDB produced by version 7.2.4
+[5640] 16 Apr 21:37:52.891 * RDB age 55 seconds
+[5640] 16 Apr 21:37:52.892 * RDB memory usage when created 0.72 Mb
+[5640] 16 Apr 21:37:52.893 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5640] 16 Apr 21:37:52.894 * DB loaded from disk: 0.017 seconds
+[5640] 16 Apr 21:37:52.899 * Ready to accept connections tcp
+[5640] 16 Apr 21:37:57.653 * Service stopping
+[5640] 16 Apr 21:37:57.715 * User requested shutdown...
+[5640] 16 Apr 21:37:57.715 * Saving the final RDB snapshot before exiting.
+[5640] 16 Apr 21:37:57.715 * DB saved on disk
+[5640] 16 Apr 21:37:59.081 # Memurai is now ready to exit, bye bye...
+[5708] 17 Apr 14:06:24.438 # --- Memurai is starting ---
+[5708] 17 Apr 14:06:24.445 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5708, just started
+[5708] 17 Apr 14:06:24.453 # Service-name=Memurai
+[5708] 17 Apr 14:06:24.453 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5708] 17 Apr 14:06:24.458 # Configuration loaded
+[5708] 17 Apr 14:06:24.461 * monotonic clock: Windows QueryPerformanceCounter
+[5708] 17 Apr 14:06:24.463 * Running mode=standalone, port=6379.
+[5708] 17 Apr 14:06:24.493 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5708] 17 Apr 14:06:24.493 * Server initialized
+[5708] 17 Apr 14:06:24.498 * Loading RDB produced by version 7.2.4
+[5708] 17 Apr 14:06:24.498 * RDB age 59307 seconds
+[5708] 17 Apr 14:06:24.498 * RDB memory usage when created 0.72 Mb
+[5708] 17 Apr 14:06:24.498 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5708] 17 Apr 14:06:24.498 * DB loaded from disk: 0.004 seconds
+[5708] 17 Apr 14:06:24.498 * Ready to accept connections tcp
+[5708] 17 Apr 16:51:05.305 * Service stopping
+[5708] 17 Apr 16:51:05.337 * User requested shutdown...
+[5708] 17 Apr 16:51:05.337 * Saving the final RDB snapshot before exiting.
+[5708] 17 Apr 16:51:05.337 * DB saved on disk
+[5708] 17 Apr 16:51:06.811 # Memurai is now ready to exit, bye bye...
+[5824] 17 Apr 17:44:12.537 # --- Memurai is starting ---
+[5824] 17 Apr 17:44:12.539 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5824, just started
+[5824] 17 Apr 17:44:12.540 # Service-name=Memurai
+[5824] 17 Apr 17:44:12.542 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5824] 17 Apr 17:44:12.543 # Configuration loaded
+[5824] 17 Apr 17:44:12.547 * monotonic clock: Windows QueryPerformanceCounter
+[5824] 17 Apr 17:44:12.561 * Running mode=standalone, port=6379.
+[5824] 17 Apr 17:44:12.575 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5824] 17 Apr 17:44:12.578 * Server initialized
+[5824] 17 Apr 17:44:12.580 * Loading RDB produced by version 7.2.4
+[5824] 17 Apr 17:44:12.581 * RDB age 3187 seconds
+[5824] 17 Apr 17:44:12.583 * RDB memory usage when created 0.72 Mb
+[5824] 17 Apr 17:44:12.583 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5824] 17 Apr 17:44:12.584 * DB loaded from disk: 0.004 seconds
+[5824] 17 Apr 17:44:12.585 * Ready to accept connections tcp
+[5824] 17 Apr 18:37:16.700 * Service stopping
+[5824] 17 Apr 18:37:16.747 * User requested shutdown...
+[5824] 17 Apr 18:37:16.747 * Saving the final RDB snapshot before exiting.
+[5824] 17 Apr 18:37:16.747 * DB saved on disk
+[5824] 17 Apr 18:37:18.206 # Memurai is now ready to exit, bye bye...
+[5500] 17 Apr 18:51:44.589 # --- Memurai is starting ---
+[5500] 17 Apr 18:51:44.589 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5500, just started
+[5500] 17 Apr 18:51:44.589 # Service-name=Memurai
+[5500] 17 Apr 18:51:44.589 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5500] 17 Apr 18:51:44.589 # Configuration loaded
+[5500] 17 Apr 18:51:44.594 * monotonic clock: Windows QueryPerformanceCounter
+[5500] 17 Apr 18:51:44.594 * Running mode=standalone, port=6379.
+[5500] 17 Apr 18:51:44.642 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5500] 17 Apr 18:51:44.642 * Server initialized
+[5500] 17 Apr 18:51:44.642 * Loading RDB produced by version 7.2.4
+[5500] 17 Apr 18:51:44.648 * RDB age 868 seconds
+[5500] 17 Apr 18:51:44.648 * RDB memory usage when created 0.72 Mb
+[5500] 17 Apr 18:51:44.654 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5500] 17 Apr 18:51:44.654 * DB loaded from disk: 0.010 seconds
+[5500] 17 Apr 18:51:44.654 * Ready to accept connections tcp
+[5500] 17 Apr 19:58:37.935 * Service stopping
+[5500] 17 Apr 19:58:38.014 * User requested shutdown...
+[5500] 17 Apr 19:58:38.014 * Saving the final RDB snapshot before exiting.
+[5500] 17 Apr 19:58:38.014 * DB saved on disk
+[5500] 17 Apr 19:58:39.485 # Memurai is now ready to exit, bye bye...
+[5912] 17 Apr 21:59:35.685 # --- Memurai is starting ---
+[5912] 17 Apr 21:59:35.685 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5912, just started
+[5912] 17 Apr 21:59:35.702 # Service-name=Memurai
+[5912] 17 Apr 21:59:35.707 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5912] 17 Apr 21:59:35.707 # Configuration loaded
+[5912] 17 Apr 21:59:35.707 * monotonic clock: Windows QueryPerformanceCounter
+[5912] 17 Apr 21:59:35.712 * Running mode=standalone, port=6379.
+[5912] 17 Apr 21:59:35.733 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5912] 17 Apr 21:59:35.737 * Server initialized
+[5912] 17 Apr 21:59:35.737 * Loading RDB produced by version 7.2.4
+[5912] 17 Apr 21:59:35.737 * RDB age 7257 seconds
+[5912] 17 Apr 21:59:35.737 * RDB memory usage when created 0.72 Mb
+[5912] 17 Apr 21:59:35.742 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5912] 17 Apr 21:59:35.749 * DB loaded from disk: 0.010 seconds
+[5912] 17 Apr 21:59:35.757 * Ready to accept connections tcp
+[5912] 17 Apr 23:06:49.396 * Service stopping
+[5912] 17 Apr 23:06:49.490 * User requested shutdown...
+[5912] 17 Apr 23:06:49.490 * Saving the final RDB snapshot before exiting.
+[5912] 17 Apr 23:06:49.490 * DB saved on disk
+[5912] 17 Apr 23:06:51.152 # Memurai is now ready to exit, bye bye...
+[5760] 18 Apr 10:39:24.227 # --- Memurai is starting ---
+[5760] 18 Apr 10:39:24.227 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5760, just started
+[5760] 18 Apr 10:39:24.227 # Service-name=Memurai
+[5760] 18 Apr 10:39:24.227 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5760] 18 Apr 10:39:24.227 # Configuration loaded
+[5760] 18 Apr 10:39:24.232 * monotonic clock: Windows QueryPerformanceCounter
+[5760] 18 Apr 10:39:24.232 * Running mode=standalone, port=6379.
+[5760] 18 Apr 10:39:24.257 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5760] 18 Apr 10:39:24.262 * Server initialized
+[5760] 18 Apr 10:39:24.262 * Loading RDB produced by version 7.2.4
+[5760] 18 Apr 10:39:24.267 * RDB age 41555 seconds
+[5760] 18 Apr 10:39:24.267 * RDB memory usage when created 0.72 Mb
+[5760] 18 Apr 10:39:24.267 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5760] 18 Apr 10:39:24.267 * DB loaded from disk: 0.005 seconds
+[5760] 18 Apr 10:39:24.267 * Ready to accept connections tcp
+[5760] 18 Apr 11:56:05.855 * Service stopping
+[5760] 18 Apr 11:56:05.902 * User requested shutdown...
+[5760] 18 Apr 11:56:05.902 * Saving the final RDB snapshot before exiting.
+[5760] 18 Apr 11:56:05.902 * DB saved on disk
+[5760] 18 Apr 11:56:05.950 # Memurai is now ready to exit, bye bye...
+[5584] 18 Apr 16:57:47.891 # --- Memurai is starting ---
+[5584] 18 Apr 16:57:47.891 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5584, just started
+[5584] 18 Apr 16:57:47.891 # Service-name=Memurai
+[5584] 18 Apr 16:57:47.904 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5584] 18 Apr 16:57:47.904 # Configuration loaded
+[5584] 18 Apr 16:57:47.907 * monotonic clock: Windows QueryPerformanceCounter
+[5584] 18 Apr 16:57:47.908 * Running mode=standalone, port=6379.
+[5584] 18 Apr 16:57:47.922 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5584] 18 Apr 16:57:47.939 * Server initialized
+[5584] 18 Apr 16:57:47.939 * Loading RDB produced by version 7.2.4
+[5584] 18 Apr 16:57:47.956 * RDB age 18102 seconds
+[5584] 18 Apr 16:57:47.990 * RDB memory usage when created 0.72 Mb
+[5584] 18 Apr 16:57:47.990 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5584] 18 Apr 16:57:47.990 * DB loaded from disk: 0.051 seconds
+[5584] 18 Apr 16:57:47.990 * Ready to accept connections tcp
+[5584] 18 Apr 19:59:48.454 * Service stopping
+[5584] 18 Apr 19:59:48.563 * User requested shutdown...
+[5584] 18 Apr 19:59:48.563 * Saving the final RDB snapshot before exiting.
+[5584] 18 Apr 19:59:48.563 * DB saved on disk
+[5584] 18 Apr 19:59:48.595 # Memurai is now ready to exit, bye bye...
+[5716] 18 Apr 21:29:06.867 # --- Memurai is starting ---
+[5716] 18 Apr 21:29:06.867 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5716, just started
+[5716] 18 Apr 21:29:06.867 # Service-name=Memurai
+[5716] 18 Apr 21:29:06.867 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5716] 18 Apr 21:29:06.872 # Configuration loaded
+[5716] 18 Apr 21:29:06.872 * monotonic clock: Windows QueryPerformanceCounter
+[5716] 18 Apr 21:29:06.877 * Running mode=standalone, port=6379.
+[5716] 18 Apr 21:29:06.887 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5716] 18 Apr 21:29:06.892 * Server initialized
+[5716] 18 Apr 21:29:06.897 * Loading RDB produced by version 7.2.4
+[5716] 18 Apr 21:29:06.898 * RDB age 5358 seconds
+[5716] 18 Apr 21:29:06.898 * RDB memory usage when created 0.72 Mb
+[5716] 18 Apr 21:29:06.898 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5716] 18 Apr 21:29:06.898 * DB loaded from disk: 0.007 seconds
+[5716] 18 Apr 21:29:06.902 * Ready to accept connections tcp
+[5716] 19 Apr 00:58:25.351 * Service stopping
+[5716] 19 Apr 00:58:25.459 * User requested shutdown...
+[5716] 19 Apr 00:58:25.459 * Saving the final RDB snapshot before exiting.
+[5716] 19 Apr 00:58:25.459 * DB saved on disk
+[5716] 19 Apr 00:58:25.475 # Memurai is now ready to exit, bye bye...
+[5524] 19 Apr 10:38:27.971 # --- Memurai is starting ---
+[5524] 19 Apr 10:38:27.971 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5524, just started
+[5524] 19 Apr 10:38:27.971 # Service-name=Memurai
+[5524] 19 Apr 10:38:27.971 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5524] 19 Apr 10:38:27.971 # Configuration loaded
+[5524] 19 Apr 10:38:27.976 * monotonic clock: Windows QueryPerformanceCounter
+[5524] 19 Apr 10:38:27.986 * Running mode=standalone, port=6379.
+[5524] 19 Apr 10:38:28.001 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5524] 19 Apr 10:38:28.006 * Server initialized
+[5524] 19 Apr 10:38:28.006 * Loading RDB produced by version 7.2.4
+[5524] 19 Apr 10:38:28.011 * RDB age 34803 seconds
+[5524] 19 Apr 10:38:28.011 * RDB memory usage when created 0.72 Mb
+[5524] 19 Apr 10:38:28.013 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5524] 19 Apr 10:38:28.013 * DB loaded from disk: 0.006 seconds
+[5524] 19 Apr 10:38:28.013 * Ready to accept connections tcp
+[5524] 19 Apr 12:01:53.393 * Service stopping
+[5524] 19 Apr 12:01:53.409 * User requested shutdown...
+[5524] 19 Apr 12:01:53.409 * Saving the final RDB snapshot before exiting.
+[5524] 19 Apr 12:01:53.425 * DB saved on disk
+[5524] 19 Apr 12:01:53.456 # Memurai is now ready to exit, bye bye...
+[5788] 19 Apr 14:03:48.195 # --- Memurai is starting ---
+[5788] 19 Apr 14:03:48.195 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5788, just started
+[5788] 19 Apr 14:03:48.195 # Service-name=Memurai
+[5788] 19 Apr 14:03:48.195 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5788] 19 Apr 14:03:48.195 # Configuration loaded
+[5788] 19 Apr 14:03:48.195 * monotonic clock: Windows QueryPerformanceCounter
+[5788] 19 Apr 14:03:48.211 * Running mode=standalone, port=6379.
+[5788] 19 Apr 14:03:48.245 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5788] 19 Apr 14:03:48.245 * Server initialized
+[5788] 19 Apr 14:03:48.245 * Loading RDB produced by version 7.2.4
+[5788] 19 Apr 14:03:48.245 * RDB age 7315 seconds
+[5788] 19 Apr 14:03:48.245 * RDB memory usage when created 0.72 Mb
+[5788] 19 Apr 14:03:48.245 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5788] 19 Apr 14:03:48.258 * DB loaded from disk: 0.003 seconds
+[5788] 19 Apr 14:03:48.258 * Ready to accept connections tcp
+[5788] 19 Apr 15:02:33.767 * Service stopping
+[5788] 19 Apr 15:02:33.798 * User requested shutdown...
+[5788] 19 Apr 15:02:33.798 * Saving the final RDB snapshot before exiting.
+[5788] 19 Apr 15:02:33.798 * DB saved on disk
+[5788] 19 Apr 15:02:33.861 # Memurai is now ready to exit, bye bye...
+[5876] 19 Apr 15:43:13.770 # --- Memurai is starting ---
+[5876] 19 Apr 15:43:13.770 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5876, just started
+[5876] 19 Apr 15:43:13.770 # Service-name=Memurai
+[5876] 19 Apr 15:43:13.770 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5876] 19 Apr 15:43:13.770 # Configuration loaded
+[5876] 19 Apr 15:43:13.780 * monotonic clock: Windows QueryPerformanceCounter
+[5876] 19 Apr 15:43:13.784 * Running mode=standalone, port=6379.
+[5876] 19 Apr 15:43:13.800 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5876] 19 Apr 15:43:13.800 * Server initialized
+[5876] 19 Apr 15:43:13.805 * Loading RDB produced by version 7.2.4
+[5876] 19 Apr 15:43:13.805 * RDB age 2440 seconds
+[5876] 19 Apr 15:43:13.805 * RDB memory usage when created 0.72 Mb
+[5876] 19 Apr 15:43:13.805 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5876] 19 Apr 15:43:13.805 * DB loaded from disk: 0.003 seconds
+[5876] 19 Apr 15:43:13.809 * Ready to accept connections tcp
+[5876] 19 Apr 20:00:04.430 * Service stopping
+[5876] 19 Apr 20:00:04.478 * User requested shutdown...
+[5876] 19 Apr 20:00:04.478 * Saving the final RDB snapshot before exiting.
+[5876] 19 Apr 20:00:04.478 * DB saved on disk
+[5876] 19 Apr 20:00:04.510 # Memurai is now ready to exit, bye bye...
+[5708] 19 Apr 21:50:56.035 # --- Memurai is starting ---
+[5708] 19 Apr 21:50:56.038 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5708, just started
+[5708] 19 Apr 21:50:56.052 # Service-name=Memurai
+[5708] 19 Apr 21:50:56.082 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5708] 19 Apr 21:50:56.082 # Configuration loaded
+[5708] 19 Apr 21:50:56.087 * monotonic clock: Windows QueryPerformanceCounter
+[5708] 19 Apr 21:50:56.102 * Running mode=standalone, port=6379.
+[5708] 19 Apr 21:50:56.152 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5708] 19 Apr 21:50:56.152 * Server initialized
+[5708] 19 Apr 21:50:56.157 * Loading RDB produced by version 7.2.4
+[5708] 19 Apr 21:50:56.157 * RDB age 6652 seconds
+[5708] 19 Apr 21:50:56.157 * RDB memory usage when created 0.72 Mb
+[5708] 19 Apr 21:50:56.159 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5708] 19 Apr 21:50:56.159 * DB loaded from disk: 0.003 seconds
+[5708] 19 Apr 21:50:56.159 * Ready to accept connections tcp
+[5708] 20 Apr 00:15:11.597 * Service stopping
+[5708] 20 Apr 00:15:11.676 * User requested shutdown...
+[5708] 20 Apr 00:15:11.676 * Saving the final RDB snapshot before exiting.
+[5708] 20 Apr 00:15:11.676 * DB saved on disk
+[5708] 20 Apr 00:15:11.725 # Memurai is now ready to exit, bye bye...
+[5520] 20 Apr 10:32:08.910 # --- Memurai is starting ---
+[5520] 20 Apr 10:32:08.910 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5520, just started
+[5520] 20 Apr 10:32:08.910 # Service-name=Memurai
+[5520] 20 Apr 10:32:08.910 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5520] 20 Apr 10:32:08.910 # Configuration loaded
+[5520] 20 Apr 10:32:08.915 * monotonic clock: Windows QueryPerformanceCounter
+[5520] 20 Apr 10:32:08.920 * Running mode=standalone, port=6379.
+[5520] 20 Apr 10:32:08.960 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5520] 20 Apr 10:32:08.960 * Server initialized
+[5520] 20 Apr 10:32:08.974 * Loading RDB produced by version 7.2.4
+[5520] 20 Apr 10:32:08.980 * RDB age 37017 seconds
+[5520] 20 Apr 10:32:08.980 * RDB memory usage when created 0.72 Mb
+[5520] 20 Apr 10:32:08.985 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5520] 20 Apr 10:32:08.985 * DB loaded from disk: 0.009 seconds
+[5520] 20 Apr 10:32:08.985 * Ready to accept connections tcp
+[5520] 20 Apr 11:42:14.842 * 1 changes in 3600 seconds. Saving...
+[5520] 20 Apr 11:42:14.879 * Background saving started by pid 18640
+[18640] 20 Apr 11:42:14.977 * DB saved on disk
+[5520] 20 Apr 11:42:15.088 * Background saving terminated with success
+[5520] 20 Apr 12:10:11.719 * Service stopping
+[5520] 20 Apr 12:10:11.829 * User requested shutdown...
+[5520] 20 Apr 12:10:11.829 * Saving the final RDB snapshot before exiting.
+[5520] 20 Apr 12:10:11.829 * DB saved on disk
+[5520] 20 Apr 12:10:11.892 # Memurai is now ready to exit, bye bye...
+[5456] 20 Apr 14:13:14.339 # --- Memurai is starting ---
+[5456] 20 Apr 14:13:14.360 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5456, just started
+[5456] 20 Apr 14:13:14.360 # Service-name=Memurai
+[5456] 20 Apr 14:13:14.364 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5456] 20 Apr 14:13:14.364 # Configuration loaded
+[5456] 20 Apr 14:13:14.381 * monotonic clock: Windows QueryPerformanceCounter
+[5456] 20 Apr 14:13:14.385 * Running mode=standalone, port=6379.
+[5456] 20 Apr 14:13:14.450 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5456] 20 Apr 14:13:14.450 * Server initialized
+[5456] 20 Apr 14:13:14.455 * Loading RDB produced by version 7.2.4
+[5456] 20 Apr 14:13:14.469 * RDB age 7383 seconds
+[5456] 20 Apr 14:13:14.469 * RDB memory usage when created 1.00 Mb
+[5456] 20 Apr 14:13:14.472 * Done loading RDB, keys loaded: 3, keys expired: 0.
+[5456] 20 Apr 14:13:14.472 * DB loaded from disk: 0.021 seconds
+[5456] 20 Apr 14:13:14.472 * Ready to accept connections tcp
+[5456] 20 Apr 15:13:15.056 * 1 changes in 3600 seconds. Saving...
+[5456] 20 Apr 15:13:15.091 * Background saving started by pid 9272
+[9272] 20 Apr 15:13:15.189 * DB saved on disk
+[5456] 20 Apr 15:13:15.304 * Background saving terminated with success
+[5456] 20 Apr 16:40:30.078 * 1 changes in 3600 seconds. Saving...
+[5456] 20 Apr 16:40:30.115 * Background saving started by pid 11452
+[11452] 20 Apr 16:40:30.208 * DB saved on disk
+[5456] 20 Apr 16:40:30.219 * Background saving terminated with success
+[5456] 20 Apr 19:51:20.472 * Service stopping
+[5456] 20 Apr 19:51:20.581 * User requested shutdown...
+[5456] 20 Apr 19:51:20.581 * Saving the final RDB snapshot before exiting.
+[5456] 20 Apr 19:51:20.581 * DB saved on disk
+[5456] 20 Apr 19:51:22.119 # Memurai is now ready to exit, bye bye...
+[5840] 20 Apr 22:53:27.240 # --- Memurai is starting ---
+[5840] 20 Apr 22:53:27.245 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5840, just started
+[5840] 20 Apr 22:53:27.245 # Service-name=Memurai
+[5840] 20 Apr 22:53:27.245 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5840] 20 Apr 22:53:27.261 # Configuration loaded
+[5840] 20 Apr 22:53:27.263 * monotonic clock: Windows QueryPerformanceCounter
+[5840] 20 Apr 22:53:27.280 * Running mode=standalone, port=6379.
+[5840] 20 Apr 22:53:27.305 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5840] 20 Apr 22:53:27.310 * Server initialized
+[5840] 20 Apr 22:53:27.311 * Loading RDB produced by version 7.2.4
+[5840] 20 Apr 22:53:27.311 * RDB age 10927 seconds
+[5840] 20 Apr 22:53:27.311 * RDB memory usage when created 0.86 Mb
+[5840] 20 Apr 22:53:27.311 * Done loading RDB, keys loaded: 3, keys expired: 0.
+[5840] 20 Apr 22:53:27.315 * DB loaded from disk: 0.005 seconds
+[5840] 20 Apr 22:53:27.315 * Ready to accept connections tcp
+[5840] 21 Apr 01:50:49.569 * Service stopping
+[5840] 21 Apr 01:50:49.663 * User requested shutdown...
+[5840] 21 Apr 01:50:49.663 * Saving the final RDB snapshot before exiting.
+[5840] 21 Apr 01:50:49.663 * DB saved on disk
+[5840] 21 Apr 01:50:51.216 # Memurai is now ready to exit, bye bye...
+[5440] 21 Apr 08:45:28.279 # --- Memurai is starting ---
+[5440] 21 Apr 08:45:28.328 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5440, just started
+[5440] 21 Apr 08:45:28.328 # Service-name=Memurai
+[5440] 21 Apr 08:45:28.328 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5440] 21 Apr 08:45:28.328 # Configuration loaded
+[5440] 21 Apr 08:45:28.328 * monotonic clock: Windows QueryPerformanceCounter
+[5440] 21 Apr 08:45:28.340 * Running mode=standalone, port=6379.
+[5440] 21 Apr 08:45:28.350 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5440] 21 Apr 08:45:28.355 * Server initialized
+[5440] 21 Apr 08:45:28.360 * Loading RDB produced by version 7.2.4
+[5440] 21 Apr 08:45:28.360 * RDB age 24879 seconds
+[5440] 21 Apr 08:45:28.360 * RDB memory usage when created 0.72 Mb
+[5440] 21 Apr 08:45:28.360 * Done loading RDB, keys loaded: 3, keys expired: 0.
+[5440] 21 Apr 08:45:28.380 * DB loaded from disk: 0.025 seconds
+[5440] 21 Apr 08:45:28.380 * Ready to accept connections tcp
+[5440] 21 Apr 10:20:23.042 * Service stopping
+[5440] 21 Apr 10:20:23.089 * User requested shutdown...
+[5440] 21 Apr 10:20:23.089 * Saving the final RDB snapshot before exiting.
+[5440] 21 Apr 10:20:23.089 * DB saved on disk
+[5440] 21 Apr 10:20:24.517 # Memurai is now ready to exit, bye bye...
+[5776] 21 Apr 18:42:31.406 # --- Memurai is starting ---
+[5776] 21 Apr 18:42:31.406 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5776, just started
+[5776] 21 Apr 18:42:31.406 # Service-name=Memurai
+[5776] 21 Apr 18:42:31.406 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5776] 21 Apr 18:42:31.406 # Configuration loaded
+[5776] 21 Apr 18:42:31.406 * monotonic clock: Windows QueryPerformanceCounter
+[5776] 21 Apr 18:42:31.411 * Running mode=standalone, port=6379.
+[5776] 21 Apr 18:42:31.431 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5776] 21 Apr 18:42:31.436 * Server initialized
+[5776] 21 Apr 18:42:31.436 * Loading RDB produced by version 7.2.4
+[5776] 21 Apr 18:42:31.436 * RDB age 30128 seconds
+[5776] 21 Apr 18:42:31.441 * RDB memory usage when created 0.72 Mb
+[5776] 21 Apr 18:42:31.441 * Done loading RDB, keys loaded: 0, keys expired: 3.
+[5776] 21 Apr 18:42:31.441 * DB loaded from disk: 0.003 seconds
+[5776] 21 Apr 18:42:31.449 * Ready to accept connections tcp
+[5776] 21 Apr 20:03:10.102 * Service stopping
+[5776] 21 Apr 20:03:10.118 * User requested shutdown...
+[5776] 21 Apr 20:03:10.118 * Saving the final RDB snapshot before exiting.
+[5776] 21 Apr 20:03:10.118 * DB saved on disk
+[5776] 21 Apr 20:03:11.640 # Memurai is now ready to exit, bye bye...
+[5732] 21 Apr 21:55:56.294 # --- Memurai is starting ---
+[5732] 21 Apr 21:55:56.309 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5732, just started
+[5732] 21 Apr 21:55:56.325 # Service-name=Memurai
+[5732] 21 Apr 21:55:56.325 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5732] 21 Apr 21:55:56.325 # Configuration loaded
+[5732] 21 Apr 21:55:56.325 * monotonic clock: Windows QueryPerformanceCounter
+[5732] 21 Apr 21:55:56.325 * Running mode=standalone, port=6379.
+[5732] 21 Apr 21:55:56.341 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5732] 21 Apr 21:55:56.341 * Server initialized
+[5732] 21 Apr 21:55:56.341 * Loading RDB produced by version 7.2.4
+[5732] 21 Apr 21:55:56.341 * RDB age 6766 seconds
+[5732] 21 Apr 21:55:56.341 * RDB memory usage when created 0.72 Mb
+[5732] 21 Apr 21:55:56.341 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5732] 21 Apr 21:55:56.356 * DB loaded from disk: 0.004 seconds
+[5732] 21 Apr 21:55:56.356 * Ready to accept connections tcp
+[5732] 21 Apr 23:18:42.543 * Service stopping
+[5732] 21 Apr 23:18:42.622 * User requested shutdown...
+[5732] 21 Apr 23:18:42.622 * Saving the final RDB snapshot before exiting.
+[5732] 21 Apr 23:18:42.622 * DB saved on disk
+[5732] 21 Apr 23:18:44.327 # Memurai is now ready to exit, bye bye...
+[5756] 22 Apr 00:04:14.066 # --- Memurai is starting ---
+[5756] 22 Apr 00:04:14.066 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5756, just started
+[5756] 22 Apr 00:04:14.066 # Service-name=Memurai
+[5756] 22 Apr 00:04:14.066 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5756] 22 Apr 00:04:14.066 # Configuration loaded
+[5756] 22 Apr 00:04:14.066 * monotonic clock: Windows QueryPerformanceCounter
+[5756] 22 Apr 00:04:14.082 * Running mode=standalone, port=6379.
+[5756] 22 Apr 00:04:14.129 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5756] 22 Apr 00:04:14.129 * Server initialized
+[5756] 22 Apr 00:04:14.129 * Loading RDB produced by version 7.2.4
+[5756] 22 Apr 00:04:14.144 * RDB age 2732 seconds
+[5756] 22 Apr 00:04:14.144 * RDB memory usage when created 0.72 Mb
+[5756] 22 Apr 00:04:14.148 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5756] 22 Apr 00:04:14.148 * DB loaded from disk: 0.006 seconds
+[5756] 22 Apr 00:04:14.148 * Ready to accept connections tcp
+[5752] 22 Apr 00:29:40.637 # --- Memurai is starting ---
+[5752] 22 Apr 00:29:40.637 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5752, just started
+[5752] 22 Apr 00:29:40.637 # Service-name=Memurai
+[5752] 22 Apr 00:29:40.637 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5752] 22 Apr 00:29:40.656 # Configuration loaded
+[5752] 22 Apr 00:29:40.656 * monotonic clock: Windows QueryPerformanceCounter
+[5752] 22 Apr 00:29:40.688 * Running mode=standalone, port=6379.
+[5752] 22 Apr 00:29:40.723 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5752] 22 Apr 00:29:40.723 * Server initialized
+[5752] 22 Apr 00:29:40.728 * Loading RDB produced by version 7.2.4
+[5752] 22 Apr 00:29:40.728 * RDB age 4258 seconds
+[5752] 22 Apr 00:29:40.733 * RDB memory usage when created 0.72 Mb
+[5752] 22 Apr 00:29:40.733 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5752] 22 Apr 00:29:40.738 * DB loaded from disk: 0.010 seconds
+[5752] 22 Apr 00:29:40.738 * Ready to accept connections tcp
+[5752] 22 Apr 00:58:57.328 * Service stopping
+[5752] 22 Apr 00:58:57.437 * User requested shutdown...
+[5752] 22 Apr 00:58:57.437 * Saving the final RDB snapshot before exiting.
+[5752] 22 Apr 00:58:57.437 * DB saved on disk
+[5752] 22 Apr 00:58:58.934 # Memurai is now ready to exit, bye bye...
+[6060] 22 Apr 11:27:04.359 # --- Memurai is starting ---
+[6060] 22 Apr 11:27:04.359 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=6060, just started
+[6060] 22 Apr 11:27:04.359 # Service-name=Memurai
+[6060] 22 Apr 11:27:04.359 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[6060] 22 Apr 11:27:04.359 # Configuration loaded
+[6060] 22 Apr 11:27:04.359 * monotonic clock: Windows QueryPerformanceCounter
+[6060] 22 Apr 11:27:04.367 * Running mode=standalone, port=6379.
+[6060] 22 Apr 11:27:04.402 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[6060] 22 Apr 11:27:04.407 * Server initialized
+[6060] 22 Apr 11:27:04.407 * Loading RDB produced by version 7.2.4
+[6060] 22 Apr 11:27:04.407 * RDB age 37687 seconds
+[6060] 22 Apr 11:27:04.407 * RDB memory usage when created 0.72 Mb
+[6060] 22 Apr 11:27:04.422 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[6060] 22 Apr 11:27:04.422 * DB loaded from disk: 0.015 seconds
+[6060] 22 Apr 11:27:04.423 * Ready to accept connections tcp
+[6060] 22 Apr 12:41:57.171 * Service stopping
+[6060] 22 Apr 12:41:57.249 * User requested shutdown...
+[6060] 22 Apr 12:41:57.249 * Saving the final RDB snapshot before exiting.
+[6060] 22 Apr 12:41:57.249 * DB saved on disk
+[6060] 22 Apr 12:41:58.996 # Memurai is now ready to exit, bye bye...
+[5904] 22 Apr 14:50:49.118 # --- Memurai is starting ---
+[5904] 22 Apr 14:50:49.123 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5904, just started
+[5904] 22 Apr 14:50:49.123 # Service-name=Memurai
+[5904] 22 Apr 14:50:49.125 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5904] 22 Apr 14:50:49.125 # Configuration loaded
+[5904] 22 Apr 14:50:49.125 * monotonic clock: Windows QueryPerformanceCounter
+[5904] 22 Apr 14:50:49.125 * Running mode=standalone, port=6379.
+[5904] 22 Apr 14:50:49.143 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5904] 22 Apr 14:50:49.143 * Server initialized
+[5904] 22 Apr 14:50:49.148 * Loading RDB produced by version 7.2.4
+[5904] 22 Apr 14:50:49.148 * RDB age 7732 seconds
+[5904] 22 Apr 14:50:49.148 * RDB memory usage when created 0.72 Mb
+[5904] 22 Apr 14:50:49.148 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5904] 22 Apr 14:50:49.148 * DB loaded from disk: 0.003 seconds
+[5904] 22 Apr 14:50:49.148 * Ready to accept connections tcp
+[5904] 22 Apr 23:38:22.082 * Service stopping
+[5904] 22 Apr 23:38:22.176 * User requested shutdown...
+[5904] 22 Apr 23:38:22.176 * Saving the final RDB snapshot before exiting.
+[5904] 22 Apr 23:38:22.176 * DB saved on disk
+[5904] 22 Apr 23:38:23.982 # Memurai is now ready to exit, bye bye...
+[5704] 23 Apr 10:40:44.584 # --- Memurai is starting ---
+[5704] 23 Apr 10:40:44.584 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5704, just started
+[5704] 23 Apr 10:40:44.584 # Service-name=Memurai
+[5704] 23 Apr 10:40:44.584 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5704] 23 Apr 10:40:44.584 # Configuration loaded
+[5704] 23 Apr 10:40:44.584 * monotonic clock: Windows QueryPerformanceCounter
+[5704] 23 Apr 10:40:44.610 * Running mode=standalone, port=6379.
+[5704] 23 Apr 10:40:44.616 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5704] 23 Apr 10:40:44.616 * Server initialized
+[5704] 23 Apr 10:40:44.616 * Loading RDB produced by version 7.2.4
+[5704] 23 Apr 10:40:44.616 * RDB age 39742 seconds
+[5704] 23 Apr 10:40:44.616 * RDB memory usage when created 0.72 Mb
+[5704] 23 Apr 10:40:44.616 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5704] 23 Apr 10:40:44.616 * DB loaded from disk: 0.003 seconds
+[5704] 23 Apr 10:40:44.616 * Ready to accept connections tcp
+[5704] 23 Apr 12:14:16.456 * Service stopping
+[5704] 23 Apr 12:14:16.519 * User requested shutdown...
+[5704] 23 Apr 12:14:16.519 * Saving the final RDB snapshot before exiting.
+[5704] 23 Apr 12:14:16.519 * DB saved on disk
+[5704] 23 Apr 12:14:18.320 # Memurai is now ready to exit, bye bye...
+[5732] 23 Apr 14:07:40.048 # --- Memurai is starting ---
+[5732] 23 Apr 14:07:40.048 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5732, just started
+[5732] 23 Apr 14:07:40.048 # Service-name=Memurai
+[5732] 23 Apr 14:07:40.063 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5732] 23 Apr 14:07:40.063 # Configuration loaded
+[5732] 23 Apr 14:07:40.063 * monotonic clock: Windows QueryPerformanceCounter
+[5732] 23 Apr 14:07:40.071 * Running mode=standalone, port=6379.
+[5732] 23 Apr 14:07:40.100 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5732] 23 Apr 14:07:40.105 * Server initialized
+[5732] 23 Apr 14:07:40.105 * Loading RDB produced by version 7.2.4
+[5732] 23 Apr 14:07:40.110 * RDB age 6804 seconds
+[5732] 23 Apr 14:07:40.110 * RDB memory usage when created 0.72 Mb
+[5732] 23 Apr 14:07:40.115 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5732] 23 Apr 14:07:40.115 * DB loaded from disk: 0.009 seconds
+[5732] 23 Apr 14:07:40.115 * Ready to accept connections tcp
+[5732] 24 Apr 01:23:23.072 * Service stopping
+[5732] 24 Apr 01:23:23.150 * User requested shutdown...
+[5732] 24 Apr 01:23:23.150 * Saving the final RDB snapshot before exiting.
+[5732] 24 Apr 01:23:23.150 * DB saved on disk
+[5732] 24 Apr 01:23:23.667 # Memurai is now ready to exit, bye bye...
+[5608] 24 Apr 10:13:05.811 # --- Memurai is starting ---
+[5608] 24 Apr 10:13:05.811 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5608, just started
+[5608] 24 Apr 10:13:05.811 # Service-name=Memurai
+[5608] 24 Apr 10:13:05.811 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5608] 24 Apr 10:13:05.811 # Configuration loaded
+[5608] 24 Apr 10:13:05.811 * monotonic clock: Windows QueryPerformanceCounter
+[5608] 24 Apr 10:13:05.828 * Running mode=standalone, port=6379.
+[5608] 24 Apr 10:13:05.875 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5608] 24 Apr 10:13:05.898 * Server initialized
+[5608] 24 Apr 10:13:05.903 * Loading RDB produced by version 7.2.4
+[5608] 24 Apr 10:13:05.903 * RDB age 31782 seconds
+[5608] 24 Apr 10:13:05.903 * RDB memory usage when created 0.72 Mb
+[5608] 24 Apr 10:13:05.903 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5608] 24 Apr 10:13:05.903 * DB loaded from disk: 0.003 seconds
+[5608] 24 Apr 10:13:05.922 * Ready to accept connections tcp
+[5608] 24 Apr 15:17:01.942 * Service stopping
+[5608] 24 Apr 15:17:02.036 * User requested shutdown...
+[5608] 24 Apr 15:17:02.036 * Saving the final RDB snapshot before exiting.
+[5608] 24 Apr 15:17:02.036 * DB saved on disk
+[5608] 24 Apr 15:17:03.681 # Memurai is now ready to exit, bye bye...
+[5204] 24 Apr 15:17:44.908 # --- Memurai is starting ---
+[5204] 24 Apr 15:17:44.908 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5204, just started
+[5204] 24 Apr 15:17:44.908 # Service-name=Memurai
+[5204] 24 Apr 15:17:44.908 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5204] 24 Apr 15:17:44.908 # Configuration loaded
+[5204] 24 Apr 15:17:44.924 * monotonic clock: Windows QueryPerformanceCounter
+[5204] 24 Apr 15:17:44.924 * Running mode=standalone, port=6379.
+[5204] 24 Apr 15:17:45.002 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5204] 24 Apr 15:17:45.002 * Server initialized
+[5204] 24 Apr 15:17:45.002 * Loading RDB produced by version 7.2.4
+[5204] 24 Apr 15:17:45.018 * RDB age 43 seconds
+[5204] 24 Apr 15:17:45.018 * RDB memory usage when created 0.72 Mb
+[5204] 24 Apr 15:17:45.018 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5204] 24 Apr 15:17:45.018 * DB loaded from disk: 0.004 seconds
+[5204] 24 Apr 15:17:45.018 * Ready to accept connections tcp
+[5204] 24 Apr 19:53:30.148 * Service stopping
+[5204] 24 Apr 19:53:30.211 * User requested shutdown...
+[5204] 24 Apr 19:53:30.211 * Saving the final RDB snapshot before exiting.
+[5204] 24 Apr 19:53:30.211 * DB saved on disk
+[5204] 24 Apr 19:53:31.654 # Memurai is now ready to exit, bye bye...
+[5884] 24 Apr 22:22:48.863 # --- Memurai is starting ---
+[5884] 24 Apr 22:22:48.868 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5884, just started
+[5884] 24 Apr 22:22:48.868 # Service-name=Memurai
+[5884] 24 Apr 22:22:48.873 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5884] 24 Apr 22:22:48.879 # Configuration loaded
+[5884] 24 Apr 22:22:48.883 * monotonic clock: Windows QueryPerformanceCounter
+[5884] 24 Apr 22:22:48.888 * Running mode=standalone, port=6379.
+[5884] 24 Apr 22:22:48.895 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5884] 24 Apr 22:22:48.903 * Server initialized
+[5884] 24 Apr 22:22:48.903 * Loading RDB produced by version 7.2.4
+[5884] 24 Apr 22:22:48.903 * RDB age 8958 seconds
+[5884] 24 Apr 22:22:48.903 * RDB memory usage when created 0.72 Mb
+[5884] 24 Apr 22:22:48.908 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5884] 24 Apr 22:22:48.911 * DB loaded from disk: 0.007 seconds
+[5884] 24 Apr 22:22:48.913 * Ready to accept connections tcp
+[5884] 25 Apr 01:12:54.959 * Service stopping
+[5884] 25 Apr 01:12:55.022 * User requested shutdown...
+[5884] 25 Apr 01:12:55.022 * Saving the final RDB snapshot before exiting.
+[5884] 25 Apr 01:12:55.022 * DB saved on disk
+[5884] 25 Apr 01:12:56.324 # Memurai is now ready to exit, bye bye...
+[5876] 25 Apr 08:36:20.846 # --- Memurai is starting ---
+[5876] 25 Apr 08:36:20.846 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5876, just started
+[5876] 25 Apr 08:36:20.846 # Service-name=Memurai
+[5876] 25 Apr 08:36:20.852 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5876] 25 Apr 08:36:20.852 # Configuration loaded
+[5876] 25 Apr 08:36:20.852 * monotonic clock: Windows QueryPerformanceCounter
+[5876] 25 Apr 08:36:20.857 * Running mode=standalone, port=6379.
+[5876] 25 Apr 08:36:20.878 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5876] 25 Apr 08:36:20.882 * Server initialized
+[5876] 25 Apr 08:36:20.882 * Loading RDB produced by version 7.2.4
+[5876] 25 Apr 08:36:20.887 * RDB age 26605 seconds
+[5876] 25 Apr 08:36:20.887 * RDB memory usage when created 0.72 Mb
+[5876] 25 Apr 08:36:20.887 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5876] 25 Apr 08:36:20.887 * DB loaded from disk: 0.006 seconds
+[5876] 25 Apr 08:36:20.887 * Ready to accept connections tcp
+[5876] 25 Apr 15:22:24.875 * Service stopping
+[5876] 25 Apr 15:22:24.938 * User requested shutdown...
+[5876] 25 Apr 15:22:24.938 * Saving the final RDB snapshot before exiting.
+[5876] 25 Apr 15:22:24.938 * DB saved on disk
+[5876] 25 Apr 15:22:26.512 # Memurai is now ready to exit, bye bye...
+[5748] 25 Apr 17:07:26.996 # --- Memurai is starting ---
+[5748] 25 Apr 17:07:27.001 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5748, just started
+[5748] 25 Apr 17:07:27.001 # Service-name=Memurai
+[5748] 25 Apr 17:07:27.006 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5748] 25 Apr 17:07:27.006 # Configuration loaded
+[5748] 25 Apr 17:07:27.006 * monotonic clock: Windows QueryPerformanceCounter
+[5748] 25 Apr 17:07:27.011 * Running mode=standalone, port=6379.
+[5748] 25 Apr 17:07:27.013 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5748] 25 Apr 17:07:27.021 * Server initialized
+[5748] 25 Apr 17:07:27.021 * Loading RDB produced by version 7.2.4
+[5748] 25 Apr 17:07:27.021 * RDB age 6303 seconds
+[5748] 25 Apr 17:07:27.021 * RDB memory usage when created 0.72 Mb
+[5748] 25 Apr 17:07:27.021 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5748] 25 Apr 17:07:27.021 * DB loaded from disk: 0.003 seconds
+[5748] 25 Apr 17:07:27.021 * Ready to accept connections tcp
+[5748] 25 Apr 20:09:41.863 * Service stopping
+[5748] 25 Apr 20:09:41.957 * User requested shutdown...
+[5748] 25 Apr 20:09:41.957 * Saving the final RDB snapshot before exiting.
+[5748] 25 Apr 20:09:41.957 * DB saved on disk
+[5748] 25 Apr 20:09:43.543 # Memurai is now ready to exit, bye bye...
+[5704] 25 Apr 23:40:25.068 # --- Memurai is starting ---
+[5704] 25 Apr 23:40:25.068 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5704, just started
+[5704] 25 Apr 23:40:25.074 # Service-name=Memurai
+[5704] 25 Apr 23:40:25.074 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5704] 25 Apr 23:40:25.074 # Configuration loaded
+[5704] 25 Apr 23:40:25.079 * monotonic clock: Windows QueryPerformanceCounter
+[5704] 25 Apr 23:40:25.089 * Running mode=standalone, port=6379.
+[5704] 25 Apr 23:40:25.137 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5704] 25 Apr 23:40:25.139 * Server initialized
+[5704] 25 Apr 23:40:25.174 * Loading RDB produced by version 7.2.4
+[5704] 25 Apr 23:40:25.189 * RDB age 12644 seconds
+[5704] 25 Apr 23:40:25.189 * RDB memory usage when created 0.72 Mb
+[5704] 25 Apr 23:40:25.194 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5704] 25 Apr 23:40:25.194 * DB loaded from disk: 0.019 seconds
+[5704] 25 Apr 23:40:25.194 * Ready to accept connections tcp
+[5704] 26 Apr 01:39:57.762 * Service stopping
+[5704] 26 Apr 01:39:57.794 * User requested shutdown...
+[5704] 26 Apr 01:39:57.794 * Saving the final RDB snapshot before exiting.
+[5704] 26 Apr 01:39:57.794 * DB saved on disk
+[5704] 26 Apr 01:39:59.442 # Memurai is now ready to exit, bye bye...
+[5804] 26 Apr 08:38:41.087 # --- Memurai is starting ---
+[5804] 26 Apr 08:38:41.092 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5804, just started
+[5804] 26 Apr 08:38:41.092 # Service-name=Memurai
+[5804] 26 Apr 08:38:41.092 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5804] 26 Apr 08:38:41.092 # Configuration loaded
+[5804] 26 Apr 08:38:41.097 * monotonic clock: Windows QueryPerformanceCounter
+[5804] 26 Apr 08:38:41.102 * Running mode=standalone, port=6379.
+[5804] 26 Apr 08:38:41.118 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5804] 26 Apr 08:38:41.122 * Server initialized
+[5804] 26 Apr 08:38:41.122 * Loading RDB produced by version 7.2.4
+[5804] 26 Apr 08:38:41.122 * RDB age 25124 seconds
+[5804] 26 Apr 08:38:41.122 * RDB memory usage when created 0.72 Mb
+[5804] 26 Apr 08:38:41.122 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5804] 26 Apr 08:38:41.127 * DB loaded from disk: 0.003 seconds
+[5804] 26 Apr 08:38:41.127 * Ready to accept connections tcp
+[5804] 26 Apr 17:02:26.594 * Service stopping
+[5804] 26 Apr 17:02:26.704 * User requested shutdown...
+[5804] 26 Apr 17:02:26.704 * Saving the final RDB snapshot before exiting.
+[5804] 26 Apr 17:02:26.704 * DB saved on disk
+[5804] 26 Apr 17:02:29.028 # Memurai is now ready to exit, bye bye...
+[5828] 26 Apr 22:47:59.843 # --- Memurai is starting ---
+[5828] 26 Apr 22:47:59.843 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5828, just started
+[5828] 26 Apr 22:47:59.843 # Service-name=Memurai
+[5828] 26 Apr 22:47:59.861 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5828] 26 Apr 22:47:59.861 # Configuration loaded
+[5828] 26 Apr 22:47:59.861 * monotonic clock: Windows QueryPerformanceCounter
+[5828] 26 Apr 22:47:59.866 * Running mode=standalone, port=6379.
+[5828] 26 Apr 22:47:59.876 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5828] 26 Apr 22:47:59.881 * Server initialized
+[5828] 26 Apr 22:47:59.881 * Loading RDB produced by version 7.2.4
+[5828] 26 Apr 22:47:59.881 * RDB age 20733 seconds
+[5828] 26 Apr 22:47:59.881 * RDB memory usage when created 0.72 Mb
+[5828] 26 Apr 22:47:59.886 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5828] 26 Apr 22:47:59.886 * DB loaded from disk: 0.004 seconds
+[5828] 26 Apr 22:47:59.886 * Ready to accept connections tcp
+[5828] 27 Apr 01:27:31.605 * Service stopping
+[5828] 27 Apr 01:27:31.715 * User requested shutdown...
+[5828] 27 Apr 01:27:31.715 * Saving the final RDB snapshot before exiting.
+[5828] 27 Apr 01:27:31.715 * DB saved on disk
+[5828] 27 Apr 01:27:33.096 # Memurai is now ready to exit, bye bye...
+[5840] 27 Apr 08:47:32.107 # --- Memurai is starting ---
+[5840] 27 Apr 08:47:32.107 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5840, just started
+[5840] 27 Apr 08:47:32.107 # Service-name=Memurai
+[5840] 27 Apr 08:47:32.107 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5840] 27 Apr 08:47:32.107 # Configuration loaded
+[5840] 27 Apr 08:47:32.107 * monotonic clock: Windows QueryPerformanceCounter
+[5840] 27 Apr 08:47:32.114 * Running mode=standalone, port=6379.
+[5840] 27 Apr 08:47:32.235 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5840] 27 Apr 08:47:32.240 * Server initialized
+[5840] 27 Apr 08:47:32.245 * Loading RDB produced by version 7.2.4
+[5840] 27 Apr 08:47:32.245 * RDB age 26401 seconds
+[5840] 27 Apr 08:47:32.245 * RDB memory usage when created 0.72 Mb
+[5840] 27 Apr 08:47:32.245 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5840] 27 Apr 08:47:32.245 * DB loaded from disk: 0.003 seconds
+[5840] 27 Apr 08:47:32.245 * Ready to accept connections tcp
+[5640] 27 Apr 16:30:19.224 # --- Memurai is starting ---
+[5640] 27 Apr 16:30:19.229 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5640, just started
+[5640] 27 Apr 16:30:19.229 # Service-name=Memurai
+[5640] 27 Apr 16:30:19.229 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5640] 27 Apr 16:30:19.229 # Configuration loaded
+[5640] 27 Apr 16:30:19.229 * monotonic clock: Windows QueryPerformanceCounter
+[5640] 27 Apr 16:30:19.233 * Running mode=standalone, port=6379.
+[5640] 27 Apr 16:30:19.243 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5640] 27 Apr 16:30:19.248 * Server initialized
+[5640] 27 Apr 16:30:19.253 * Loading RDB produced by version 7.2.4
+[5640] 27 Apr 16:30:19.253 * RDB age 54168 seconds
+[5640] 27 Apr 16:30:19.253 * RDB memory usage when created 0.72 Mb
+[5640] 27 Apr 16:30:19.268 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5640] 27 Apr 16:30:19.268 * DB loaded from disk: 0.017 seconds
+[5640] 27 Apr 16:30:19.273 * Ready to accept connections tcp
+[5640] 27 Apr 20:06:48.790 * Service stopping
+[5640] 27 Apr 20:06:48.900 * User requested shutdown...
+[5640] 27 Apr 20:06:48.900 * Saving the final RDB snapshot before exiting.
+[5640] 27 Apr 20:06:48.907 * DB saved on disk
+[5640] 27 Apr 20:06:50.406 # Memurai is now ready to exit, bye bye...
+[5712] 27 Apr 22:13:42.525 # --- Memurai is starting ---
+[5712] 27 Apr 22:13:42.525 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5712, just started
+[5712] 27 Apr 22:13:42.525 # Service-name=Memurai
+[5712] 27 Apr 22:13:42.541 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5712] 27 Apr 22:13:42.541 # Configuration loaded
+[5712] 27 Apr 22:13:42.541 * monotonic clock: Windows QueryPerformanceCounter
+[5712] 27 Apr 22:13:42.550 * Running mode=standalone, port=6379.
+[5712] 27 Apr 22:13:42.593 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5712] 27 Apr 22:13:42.598 * Server initialized
+[5712] 27 Apr 22:13:42.598 * Loading RDB produced by version 7.2.4
+[5712] 27 Apr 22:13:42.598 * RDB age 7614 seconds
+[5712] 27 Apr 22:13:42.603 * RDB memory usage when created 0.72 Mb
+[5712] 27 Apr 22:13:42.603 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5712] 27 Apr 22:13:42.617 * DB loaded from disk: 0.017 seconds
+[5712] 27 Apr 22:13:42.617 * Ready to accept connections tcp
+[5712] 28 Apr 02:16:55.284 * Service stopping
+[5712] 28 Apr 02:16:55.340 * User requested shutdown...
+[5712] 28 Apr 02:16:55.340 * Saving the final RDB snapshot before exiting.
+[5712] 28 Apr 02:16:55.340 * DB saved on disk
+[5712] 28 Apr 02:16:56.787 # Memurai is now ready to exit, bye bye...
+[5692] 28 Apr 08:34:38.074 # --- Memurai is starting ---
+[5692] 28 Apr 08:34:38.074 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5692, just started
+[5692] 28 Apr 08:34:38.086 # Service-name=Memurai
+[5692] 28 Apr 08:34:38.086 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5692] 28 Apr 08:34:38.086 # Configuration loaded
+[5692] 28 Apr 08:34:38.086 * monotonic clock: Windows QueryPerformanceCounter
+[5692] 28 Apr 08:34:38.090 * Running mode=standalone, port=6379.
+[5692] 28 Apr 08:34:38.106 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5692] 28 Apr 08:34:38.106 * Server initialized
+[5692] 28 Apr 08:34:38.106 * Loading RDB produced by version 7.2.4
+[5692] 28 Apr 08:34:38.106 * RDB age 22663 seconds
+[5692] 28 Apr 08:34:38.121 * RDB memory usage when created 0.72 Mb
+[5692] 28 Apr 08:34:38.121 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5692] 28 Apr 08:34:38.121 * DB loaded from disk: 0.009 seconds
+[5692] 28 Apr 08:34:38.121 * Ready to accept connections tcp
+[5692] 28 Apr 20:11:34.132 * Service stopping
+[5692] 28 Apr 20:11:34.242 * User requested shutdown...
+[5692] 28 Apr 20:11:34.242 * Saving the final RDB snapshot before exiting.
+[5692] 28 Apr 20:11:34.246 * DB saved on disk
+[5692] 28 Apr 20:11:35.732 # Memurai is now ready to exit, bye bye...
+[5740] 28 Apr 21:48:34.032 # --- Memurai is starting ---
+[5740] 28 Apr 21:48:34.032 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5740, just started
+[5740] 28 Apr 21:48:34.037 # Service-name=Memurai
+[5740] 28 Apr 21:48:34.037 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5740] 28 Apr 21:48:34.037 # Configuration loaded
+[5740] 28 Apr 21:48:34.055 * monotonic clock: Windows QueryPerformanceCounter
+[5740] 28 Apr 21:48:34.062 * Running mode=standalone, port=6379.
+[5740] 28 Apr 21:48:34.072 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5740] 28 Apr 21:48:34.076 * Server initialized
+[5740] 28 Apr 21:48:34.076 * Loading RDB produced by version 7.2.4
+[5740] 28 Apr 21:48:34.076 * RDB age 5820 seconds
+[5740] 28 Apr 21:48:34.076 * RDB memory usage when created 0.72 Mb
+[5740] 28 Apr 21:48:34.076 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5740] 28 Apr 21:48:34.076 * DB loaded from disk: 0.003 seconds
+[5740] 28 Apr 21:48:34.081 * Ready to accept connections tcp
+[5740] 29 Apr 02:48:14.745 * Service stopping
+[5740] 29 Apr 02:48:14.823 * User requested shutdown...
+[5740] 29 Apr 02:48:14.823 * Saving the final RDB snapshot before exiting.
+[5740] 29 Apr 02:48:14.823 * DB saved on disk
+[5740] 29 Apr 02:48:16.174 # Memurai is now ready to exit, bye bye...
+[5672] 29 Apr 08:19:46.281 # --- Memurai is starting ---
+[5672] 29 Apr 08:19:46.281 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5672, just started
+[5672] 29 Apr 08:19:46.281 # Service-name=Memurai
+[5672] 29 Apr 08:19:46.281 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5672] 29 Apr 08:19:46.281 # Configuration loaded
+[5672] 29 Apr 08:19:46.291 * monotonic clock: Windows QueryPerformanceCounter
+[5672] 29 Apr 08:19:46.291 * Running mode=standalone, port=6379.
+[5672] 29 Apr 08:19:46.323 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5672] 29 Apr 08:19:46.323 * Server initialized
+[5672] 29 Apr 08:19:46.323 * Loading RDB produced by version 7.2.4
+[5672] 29 Apr 08:19:46.323 * RDB age 19892 seconds
+[5672] 29 Apr 08:19:46.323 * RDB memory usage when created 0.72 Mb
+[5672] 29 Apr 08:19:46.323 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5672] 29 Apr 08:19:46.323 * DB loaded from disk: 0.002 seconds
+[5672] 29 Apr 08:19:46.323 * Ready to accept connections tcp
+[5672] 29 Apr 09:23:57.787 * Service stopping
+[5672] 29 Apr 09:23:57.834 * User requested shutdown...
+[5672] 29 Apr 09:23:57.834 * Saving the final RDB snapshot before exiting.
+[5672] 29 Apr 09:23:57.834 * DB saved on disk
+[5672] 29 Apr 09:23:59.127 # Memurai is now ready to exit, bye bye...
+[5776] 29 Apr 09:45:50.971 # --- Memurai is starting ---
+[5776] 29 Apr 09:45:50.976 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5776, just started
+[5776] 29 Apr 09:45:50.976 # Service-name=Memurai
+[5776] 29 Apr 09:45:50.976 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5776] 29 Apr 09:45:50.978 # Configuration loaded
+[5776] 29 Apr 09:45:50.981 * monotonic clock: Windows QueryPerformanceCounter
+[5776] 29 Apr 09:45:50.986 * Running mode=standalone, port=6379.
+[5776] 29 Apr 09:45:51.022 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5776] 29 Apr 09:45:51.027 * Server initialized
+[5776] 29 Apr 09:45:51.031 * Loading RDB produced by version 7.2.4
+[5776] 29 Apr 09:45:51.031 * RDB age 1314 seconds
+[5776] 29 Apr 09:45:51.031 * RDB memory usage when created 0.72 Mb
+[5776] 29 Apr 09:45:51.031 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5776] 29 Apr 09:45:51.031 * DB loaded from disk: 0.004 seconds
+[5776] 29 Apr 09:45:51.087 * Ready to accept connections tcp
+[5776] 29 Apr 09:50:09.809 * Service stopping
+[5776] 29 Apr 09:50:09.902 * User requested shutdown...
+[5776] 29 Apr 09:50:09.902 * Saving the final RDB snapshot before exiting.
+[5776] 29 Apr 09:50:09.902 * DB saved on disk
+[5776] 29 Apr 09:50:11.474 # Memurai is now ready to exit, bye bye...
+[5596] 29 Apr 09:56:32.016 # --- Memurai is starting ---
+[5596] 29 Apr 09:56:32.016 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5596, just started
+[5596] 29 Apr 09:56:32.016 # Service-name=Memurai
+[5596] 29 Apr 09:56:32.038 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5596] 29 Apr 09:56:32.038 # Configuration loaded
+[5596] 29 Apr 09:56:32.038 * monotonic clock: Windows QueryPerformanceCounter
+[5596] 29 Apr 09:56:32.047 * Running mode=standalone, port=6379.
+[5596] 29 Apr 09:56:32.102 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5596] 29 Apr 09:56:32.107 * Server initialized
+[5596] 29 Apr 09:56:32.107 * Loading RDB produced by version 7.2.4
+[5596] 29 Apr 09:56:32.112 * RDB age 383 seconds
+[5596] 29 Apr 09:56:32.117 * RDB memory usage when created 0.72 Mb
+[5596] 29 Apr 09:56:32.122 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5596] 29 Apr 09:56:32.122 * DB loaded from disk: 0.014 seconds
+[5596] 29 Apr 09:56:32.127 * Ready to accept connections tcp
+[5596] 29 Apr 10:02:02.368 * Service stopping
+[5596] 29 Apr 10:02:02.400 * User requested shutdown...
+[5596] 29 Apr 10:02:02.400 * Saving the final RDB snapshot before exiting.
+[5596] 29 Apr 10:02:02.400 * DB saved on disk
+[5596] 29 Apr 10:02:04.098 # Memurai is now ready to exit, bye bye...
+[5528] 29 Apr 10:13:01.945 # --- Memurai is starting ---
+[5528] 29 Apr 10:13:01.945 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5528, just started
+[5528] 29 Apr 10:13:01.945 # Service-name=Memurai
+[5528] 29 Apr 10:13:02.040 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5528] 29 Apr 10:13:02.040 # Configuration loaded
+[5528] 29 Apr 10:13:02.040 * monotonic clock: Windows QueryPerformanceCounter
+[5528] 29 Apr 10:13:02.055 * Running mode=standalone, port=6379.
+[5528] 29 Apr 10:13:02.080 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5528] 29 Apr 10:13:02.080 * Server initialized
+[5528] 29 Apr 10:13:02.087 * Loading RDB produced by version 7.2.4
+[5528] 29 Apr 10:13:02.087 * RDB age 660 seconds
+[5528] 29 Apr 10:13:02.087 * RDB memory usage when created 0.72 Mb
+[5528] 29 Apr 10:13:02.087 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5528] 29 Apr 10:13:02.087 * DB loaded from disk: 0.005 seconds
+[5528] 29 Apr 10:13:02.087 * Ready to accept connections tcp
+[5528] 29 Apr 11:19:32.403 * Service stopping
+[5528] 29 Apr 11:19:32.450 * User requested shutdown...
+[5528] 29 Apr 11:19:32.450 * Saving the final RDB snapshot before exiting.
+[5528] 29 Apr 11:19:32.450 * DB saved on disk
+[5528] 29 Apr 11:19:34.177 # Memurai is now ready to exit, bye bye...
+[5700] 29 Apr 11:21:53.182 # --- Memurai is starting ---
+[5700] 29 Apr 11:21:53.182 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5700, just started
+[5700] 29 Apr 11:21:53.182 # Service-name=Memurai
+[5700] 29 Apr 11:21:53.182 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5700] 29 Apr 11:21:53.182 # Configuration loaded
+[5700] 29 Apr 11:21:53.189 * monotonic clock: Windows QueryPerformanceCounter
+[5700] 29 Apr 11:21:53.189 * Running mode=standalone, port=6379.
+[5700] 29 Apr 11:21:53.254 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5700] 29 Apr 11:21:53.254 * Server initialized
+[5700] 29 Apr 11:21:53.259 * Loading RDB produced by version 7.2.4
+[5700] 29 Apr 11:21:53.259 * RDB age 141 seconds
+[5700] 29 Apr 11:21:53.262 * RDB memory usage when created 0.72 Mb
+[5700] 29 Apr 11:21:53.262 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5700] 29 Apr 11:21:53.269 * DB loaded from disk: 0.012 seconds
+[5700] 29 Apr 11:21:53.269 * Ready to accept connections tcp
+[5700] 29 Apr 11:58:48.740 * Service stopping
+[5700] 29 Apr 11:58:48.803 * User requested shutdown...
+[5700] 29 Apr 11:58:48.803 * Saving the final RDB snapshot before exiting.
+[5700] 29 Apr 11:58:48.803 * DB saved on disk
+[5700] 29 Apr 11:58:50.264 # Memurai is now ready to exit, bye bye...
+[5592] 29 Apr 12:00:31.291 # --- Memurai is starting ---
+[5592] 29 Apr 12:00:31.291 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5592, just started
+[5592] 29 Apr 12:00:31.296 # Service-name=Memurai
+[5592] 29 Apr 12:00:31.296 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5592] 29 Apr 12:00:31.296 # Configuration loaded
+[5592] 29 Apr 12:00:31.296 * monotonic clock: Windows QueryPerformanceCounter
+[5592] 29 Apr 12:00:31.301 * Running mode=standalone, port=6379.
+[5592] 29 Apr 12:00:31.336 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5592] 29 Apr 12:00:31.341 * Server initialized
+[5592] 29 Apr 12:00:31.341 * Loading RDB produced by version 7.2.4
+[5592] 29 Apr 12:00:31.344 * RDB age 103 seconds
+[5592] 29 Apr 12:00:31.344 * RDB memory usage when created 0.72 Mb
+[5592] 29 Apr 12:00:31.344 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5592] 29 Apr 12:00:31.346 * DB loaded from disk: 0.003 seconds
+[5592] 29 Apr 12:00:31.346 * Ready to accept connections tcp
+[5592] 29 Apr 12:02:06.557 * Service stopping
+[5592] 29 Apr 12:02:06.667 * User requested shutdown...
+[5592] 29 Apr 12:02:06.667 * Saving the final RDB snapshot before exiting.
+[5592] 29 Apr 12:02:06.667 * DB saved on disk
+[5592] 29 Apr 12:02:08.660 # Memurai is now ready to exit, bye bye...
+[5940] 29 Apr 12:03:23.979 # --- Memurai is starting ---
+[5940] 29 Apr 12:03:23.979 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5940, just started
+[5940] 29 Apr 12:03:23.979 # Service-name=Memurai
+[5940] 29 Apr 12:03:23.979 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5940] 29 Apr 12:03:23.984 # Configuration loaded
+[5940] 29 Apr 12:03:23.985 * monotonic clock: Windows QueryPerformanceCounter
+[5940] 29 Apr 12:03:23.989 * Running mode=standalone, port=6379.
+[5940] 29 Apr 12:03:24.089 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5940] 29 Apr 12:03:24.089 * Server initialized
+[5940] 29 Apr 12:03:24.094 * Loading RDB produced by version 7.2.4
+[5940] 29 Apr 12:03:24.104 * RDB age 78 seconds
+[5940] 29 Apr 12:03:24.109 * RDB memory usage when created 0.72 Mb
+[5940] 29 Apr 12:03:24.109 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5940] 29 Apr 12:03:24.109 * DB loaded from disk: 0.016 seconds
+[5940] 29 Apr 12:03:24.115 * Ready to accept connections tcp
+[5940] 29 Apr 13:14:39.839 * Service stopping
+[5940] 29 Apr 13:14:39.886 * User requested shutdown...
+[5940] 29 Apr 13:14:39.886 * Saving the final RDB snapshot before exiting.
+[5940] 29 Apr 13:14:39.886 * DB saved on disk
+[5940] 29 Apr 13:14:41.441 # Memurai is now ready to exit, bye bye...
+[5852] 29 Apr 13:32:26.864 # --- Memurai is starting ---
+[5852] 29 Apr 13:32:26.864 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5852, just started
+[5852] 29 Apr 13:32:26.864 # Service-name=Memurai
+[5852] 29 Apr 13:32:26.864 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5852] 29 Apr 13:32:26.864 # Configuration loaded
+[5852] 29 Apr 13:32:26.864 * monotonic clock: Windows QueryPerformanceCounter
+[5852] 29 Apr 13:32:26.879 * Running mode=standalone, port=6379.
+[5852] 29 Apr 13:32:26.928 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5852] 29 Apr 13:32:26.933 * Server initialized
+[5852] 29 Apr 13:32:26.933 * Loading RDB produced by version 7.2.4
+[5852] 29 Apr 13:32:26.933 * RDB age 1067 seconds
+[5852] 29 Apr 13:32:26.933 * RDB memory usage when created 0.72 Mb
+[5852] 29 Apr 13:32:26.933 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5852] 29 Apr 13:32:26.933 * DB loaded from disk: 0.003 seconds
+[5852] 29 Apr 13:32:26.933 * Ready to accept connections tcp
+[5852] 29 Apr 20:05:33.305 * Service stopping
+[5852] 29 Apr 20:05:33.399 * User requested shutdown...
+[5852] 29 Apr 20:05:33.399 * Saving the final RDB snapshot before exiting.
+[5852] 29 Apr 20:05:33.399 * DB saved on disk
+[5852] 29 Apr 20:05:34.877 # Memurai is now ready to exit, bye bye...
+[5704] 29 Apr 20:10:00.160 # --- Memurai is starting ---
+[5704] 29 Apr 20:10:00.160 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5704, just started
+[5704] 29 Apr 20:10:00.160 # Service-name=Memurai
+[5704] 29 Apr 20:10:00.176 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5704] 29 Apr 20:10:00.176 # Configuration loaded
+[5704] 29 Apr 20:10:00.176 * monotonic clock: Windows QueryPerformanceCounter
+[5704] 29 Apr 20:10:00.176 * Running mode=standalone, port=6379.
+[5704] 29 Apr 20:10:00.214 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5704] 29 Apr 20:10:00.223 * Server initialized
+[5704] 29 Apr 20:10:00.226 * Loading RDB produced by version 7.2.4
+[5704] 29 Apr 20:10:00.226 * RDB age 267 seconds
+[5704] 29 Apr 20:10:00.226 * RDB memory usage when created 0.72 Mb
+[5704] 29 Apr 20:10:00.226 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5704] 29 Apr 20:10:00.239 * DB loaded from disk: 0.019 seconds
+[5704] 29 Apr 20:10:00.244 * Ready to accept connections tcp
+[5704] 29 Apr 20:10:48.744 * Service stopping
+[5704] 29 Apr 20:10:48.838 * User requested shutdown...
+[5704] 29 Apr 20:10:48.838 * Saving the final RDB snapshot before exiting.
+[5704] 29 Apr 20:10:48.838 * DB saved on disk
+[5704] 29 Apr 20:10:50.236 # Memurai is now ready to exit, bye bye...
+[1640] 29 Apr 20:11:22.650 # --- Memurai is starting ---
+[1640] 29 Apr 20:11:22.650 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=1640, just started
+[1640] 29 Apr 20:11:22.650 # Service-name=Memurai
+[1640] 29 Apr 20:11:22.650 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[1640] 29 Apr 20:11:22.650 # Configuration loaded
+[1640] 29 Apr 20:11:22.650 * monotonic clock: Windows QueryPerformanceCounter
+[1640] 29 Apr 20:11:22.650 * Running mode=standalone, port=6379.
+[1640] 29 Apr 20:11:22.650 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[1640] 29 Apr 20:11:22.666 * Server initialized
+[1640] 29 Apr 20:11:22.666 * Loading RDB produced by version 7.2.4
+[1640] 29 Apr 20:11:22.666 * RDB age 34 seconds
+[1640] 29 Apr 20:11:22.666 * RDB memory usage when created 0.72 Mb
+[1640] 29 Apr 20:11:22.666 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[1640] 29 Apr 20:11:22.666 * DB loaded from disk: 0.004 seconds
+[1640] 29 Apr 20:11:22.666 * Ready to accept connections tcp
+[1640] 29 Apr 20:11:23.545 * Service stopping
+[1640] 29 Apr 20:11:23.560 * User requested shutdown...
+[1640] 29 Apr 20:11:23.560 * Saving the final RDB snapshot before exiting.
+[1640] 29 Apr 20:11:23.560 * DB saved on disk
+[1640] 29 Apr 20:11:23.560 # Memurai is now ready to exit, bye bye...
+[5736] 29 Apr 22:48:02.972 # --- Memurai is starting ---
+[5736] 29 Apr 22:48:02.972 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5736, just started
+[5736] 29 Apr 22:48:02.972 # Service-name=Memurai
+[5736] 29 Apr 22:48:02.972 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5736] 29 Apr 22:48:02.972 # Configuration loaded
+[5736] 29 Apr 22:48:02.977 * monotonic clock: Windows QueryPerformanceCounter
+[5736] 29 Apr 22:48:03.006 * Running mode=standalone, port=6379.
+[5736] 29 Apr 22:48:03.065 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5736] 29 Apr 22:48:03.065 * Server initialized
+[5736] 29 Apr 22:48:03.107 * Loading RDB produced by version 7.2.4
+[5736] 29 Apr 22:48:03.107 * RDB age 9400 seconds
+[5736] 29 Apr 22:48:03.112 * RDB memory usage when created 0.72 Mb
+[5736] 29 Apr 22:48:03.112 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5736] 29 Apr 22:48:03.132 * DB loaded from disk: 0.026 seconds
+[5736] 29 Apr 22:48:03.132 * Ready to accept connections tcp
+[5736] 30 Apr 02:43:45.431 * Service stopping
+[5736] 30 Apr 02:43:45.447 * User requested shutdown...
+[5736] 30 Apr 02:43:45.447 * Saving the final RDB snapshot before exiting.
+[5736] 30 Apr 02:43:45.453 * DB saved on disk
+[5736] 30 Apr 02:43:47.173 # Memurai is now ready to exit, bye bye...
+[5968] 30 Apr 07:13:50.976 # --- Memurai is starting ---
+[5968] 30 Apr 07:13:50.976 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5968, just started
+[5968] 30 Apr 07:13:50.976 # Service-name=Memurai
+[5968] 30 Apr 07:13:50.976 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5968] 30 Apr 07:13:50.976 # Configuration loaded
+[5968] 30 Apr 07:13:50.976 * monotonic clock: Windows QueryPerformanceCounter
+[5968] 30 Apr 07:13:50.986 * Running mode=standalone, port=6379.
+[5968] 30 Apr 07:13:51.051 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5968] 30 Apr 07:13:51.051 * Server initialized
+[5968] 30 Apr 07:13:51.051 * Loading RDB produced by version 7.2.4
+[5968] 30 Apr 07:13:51.066 * RDB age 16206 seconds
+[5968] 30 Apr 07:13:51.066 * RDB memory usage when created 0.72 Mb
+[5968] 30 Apr 07:13:51.067 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5968] 30 Apr 07:13:51.067 * DB loaded from disk: 0.003 seconds
+[5968] 30 Apr 07:13:51.067 * Ready to accept connections tcp
+[5968] 30 Apr 20:28:37.418 * Service stopping
+[5968] 30 Apr 20:28:37.496 * User requested shutdown...
+[5968] 30 Apr 20:28:37.496 * Saving the final RDB snapshot before exiting.
+[5968] 30 Apr 20:28:37.500 * DB saved on disk
+[5968] 30 Apr 20:28:39.114 # Memurai is now ready to exit, bye bye...
+[5860] 30 Apr 22:17:46.229 # --- Memurai is starting ---
+[5860] 30 Apr 22:17:46.229 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5860, just started
+[5860] 30 Apr 22:17:46.229 # Service-name=Memurai
+[5860] 30 Apr 22:17:46.229 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5860] 30 Apr 22:17:46.229 # Configuration loaded
+[5860] 30 Apr 22:17:46.245 * monotonic clock: Windows QueryPerformanceCounter
+[5860] 30 Apr 22:17:46.245 * Running mode=standalone, port=6379.
+[5860] 30 Apr 22:17:46.245 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5860] 30 Apr 22:17:46.260 * Server initialized
+[5860] 30 Apr 22:17:46.263 * Loading RDB produced by version 7.2.4
+[5860] 30 Apr 22:17:46.263 * RDB age 6549 seconds
+[5860] 30 Apr 22:17:46.263 * RDB memory usage when created 0.72 Mb
+[5860] 30 Apr 22:17:46.263 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5860] 30 Apr 22:17:46.263 * DB loaded from disk: 0.005 seconds
+[5860] 30 Apr 22:17:46.263 * Ready to accept connections tcp
+[5860] 01 May 02:10:04.102 * Service stopping
+[5860] 01 May 02:10:04.117 * User requested shutdown...
+[5860] 01 May 02:10:04.117 * Saving the final RDB snapshot before exiting.
+[5860] 01 May 02:10:04.117 * DB saved on disk
+[5860] 01 May 02:10:05.623 # Memurai is now ready to exit, bye bye...
+[5272] 01 May 07:32:30.847 # --- Memurai is starting ---
+[5272] 01 May 07:32:30.879 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5272, just started
+[5272] 01 May 07:32:30.879 # Service-name=Memurai
+[5272] 01 May 07:32:30.879 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5272] 01 May 07:32:30.879 # Configuration loaded
+[5272] 01 May 07:32:30.879 * monotonic clock: Windows QueryPerformanceCounter
+[5272] 01 May 07:32:30.879 * Running mode=standalone, port=6379.
+[5272] 01 May 07:32:30.974 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5272] 01 May 07:32:30.974 * Server initialized
+[5272] 01 May 07:32:30.974 * Loading RDB produced by version 7.2.4
+[5272] 01 May 07:32:30.989 * RDB age 19346 seconds
+[5272] 01 May 07:32:30.989 * RDB memory usage when created 0.72 Mb
+[5272] 01 May 07:32:30.989 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5272] 01 May 07:32:30.989 * DB loaded from disk: 0.003 seconds
+[5272] 01 May 07:32:30.989 * Ready to accept connections tcp
+[5272] 01 May 08:39:11.148 * Service stopping
+[5272] 01 May 08:39:11.211 * User requested shutdown...
+[5272] 01 May 08:39:11.211 * Saving the final RDB snapshot before exiting.
+[5272] 01 May 08:39:11.211 * DB saved on disk
+[5272] 01 May 08:39:12.813 # Memurai is now ready to exit, bye bye...
+[5876] 01 May 08:51:01.165 # --- Memurai is starting ---
+[5876] 01 May 08:51:01.170 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5876, just started
+[5876] 01 May 08:51:01.170 # Service-name=Memurai
+[5876] 01 May 08:51:01.170 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5876] 01 May 08:51:01.170 # Configuration loaded
+[5876] 01 May 08:51:01.170 * monotonic clock: Windows QueryPerformanceCounter
+[5876] 01 May 08:51:01.178 * Running mode=standalone, port=6379.
+[5876] 01 May 08:51:01.200 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5876] 01 May 08:51:01.205 * Server initialized
+[5876] 01 May 08:51:01.209 * Loading RDB produced by version 7.2.4
+[5876] 01 May 08:51:01.210 * RDB age 710 seconds
+[5876] 01 May 08:51:01.219 * RDB memory usage when created 0.72 Mb
+[5876] 01 May 08:51:01.219 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5876] 01 May 08:51:01.219 * DB loaded from disk: 0.015 seconds
+[5876] 01 May 08:51:01.226 * Ready to accept connections tcp
+[5876] 01 May 09:30:21.075 * Service stopping
+[5876] 01 May 09:30:21.153 * User requested shutdown...
+[5876] 01 May 09:30:21.153 * Saving the final RDB snapshot before exiting.
+[5876] 01 May 09:30:21.153 * DB saved on disk
+[5876] 01 May 09:30:22.818 # Memurai is now ready to exit, bye bye...
+[5648] 01 May 09:32:51.029 # --- Memurai is starting ---
+[5648] 01 May 09:32:51.029 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5648, just started
+[5648] 01 May 09:32:51.048 # Service-name=Memurai
+[5648] 01 May 09:32:51.048 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5648] 01 May 09:32:51.048 # Configuration loaded
+[5648] 01 May 09:32:51.053 * monotonic clock: Windows QueryPerformanceCounter
+[5648] 01 May 09:32:51.099 * Running mode=standalone, port=6379.
+[5648] 01 May 09:32:51.123 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5648] 01 May 09:32:51.123 * Server initialized
+[5648] 01 May 09:32:51.128 * Loading RDB produced by version 7.2.4
+[5648] 01 May 09:32:51.128 * RDB age 150 seconds
+[5648] 01 May 09:32:51.128 * RDB memory usage when created 0.72 Mb
+[5648] 01 May 09:32:51.128 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5648] 01 May 09:32:51.133 * DB loaded from disk: 0.006 seconds
+[5648] 01 May 09:32:51.133 * Ready to accept connections tcp
+[5648] 01 May 10:41:15.840 * Service stopping
+[5648] 01 May 10:41:15.934 * User requested shutdown...
+[5648] 01 May 10:41:15.934 * Saving the final RDB snapshot before exiting.
+[5648] 01 May 10:41:15.934 * DB saved on disk
+[5648] 01 May 10:41:17.459 # Memurai is now ready to exit, bye bye...
+[5848] 01 May 11:06:18.218 # --- Memurai is starting ---
+[5848] 01 May 11:06:18.223 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5848, just started
+[5848] 01 May 11:06:18.223 # Service-name=Memurai
+[5848] 01 May 11:06:18.223 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5848] 01 May 11:06:18.223 # Configuration loaded
+[5848] 01 May 11:06:18.227 * monotonic clock: Windows QueryPerformanceCounter
+[5848] 01 May 11:06:18.234 * Running mode=standalone, port=6379.
+[5848] 01 May 11:06:18.268 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5848] 01 May 11:06:18.292 * Server initialized
+[5848] 01 May 11:06:18.294 * Loading RDB produced by version 7.2.4
+[5848] 01 May 11:06:18.294 * RDB age 1503 seconds
+[5848] 01 May 11:06:18.294 * RDB memory usage when created 0.72 Mb
+[5848] 01 May 11:06:18.294 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5848] 01 May 11:06:18.294 * DB loaded from disk: 0.003 seconds
+[5848] 01 May 11:06:18.294 * Ready to accept connections tcp
+[5848] 01 May 11:45:46.367 * Service stopping
+[5848] 01 May 11:45:46.461 * User requested shutdown...
+[5848] 01 May 11:45:46.461 * Saving the final RDB snapshot before exiting.
+[5848] 01 May 11:45:46.461 * DB saved on disk
+[5848] 01 May 11:45:48.213 # Memurai is now ready to exit, bye bye...
+[5708] 01 May 15:44:07.439 # --- Memurai is starting ---
+[5708] 01 May 15:44:07.439 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5708, just started
+[5708] 01 May 15:44:07.439 # Service-name=Memurai
+[5708] 01 May 15:44:07.439 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5708] 01 May 15:44:07.439 # Configuration loaded
+[5708] 01 May 15:44:07.439 * monotonic clock: Windows QueryPerformanceCounter
+[5708] 01 May 15:44:07.455 * Running mode=standalone, port=6379.
+[5708] 01 May 15:44:07.455 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5708] 01 May 15:44:07.455 * Server initialized
+[5708] 01 May 15:44:07.473 * Loading RDB produced by version 7.2.4
+[5708] 01 May 15:44:07.473 * RDB age 14301 seconds
+[5708] 01 May 15:44:07.473 * RDB memory usage when created 0.72 Mb
+[5708] 01 May 15:44:07.478 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5708] 01 May 15:44:07.478 * DB loaded from disk: 0.006 seconds
+[5708] 01 May 15:44:07.478 * Ready to accept connections tcp
+[5708] 01 May 19:58:40.288 * Service stopping
+[5708] 01 May 19:58:40.320 * User requested shutdown...
+[5708] 01 May 19:58:40.320 * Saving the final RDB snapshot before exiting.
+[5708] 01 May 19:58:40.320 * DB saved on disk
+[5708] 01 May 19:58:41.733 # Memurai is now ready to exit, bye bye...
+[5788] 01 May 21:13:01.177 # --- Memurai is starting ---
+[5788] 01 May 21:13:01.177 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5788, just started
+[5788] 01 May 21:13:01.177 # Service-name=Memurai
+[5788] 01 May 21:13:01.179 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5788] 01 May 21:13:01.179 # Configuration loaded
+[5788] 01 May 21:13:01.179 * monotonic clock: Windows QueryPerformanceCounter
+[5788] 01 May 21:13:01.209 * Running mode=standalone, port=6379.
+[5788] 01 May 21:13:01.239 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5788] 01 May 21:13:01.244 * Server initialized
+[5788] 01 May 21:13:01.244 * Loading RDB produced by version 7.2.4
+[5788] 01 May 21:13:01.244 * RDB age 4461 seconds
+[5788] 01 May 21:13:01.249 * RDB memory usage when created 0.72 Mb
+[5788] 01 May 21:13:01.249 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5788] 01 May 21:13:01.255 * DB loaded from disk: 0.008 seconds
+[5788] 01 May 21:13:01.255 * Ready to accept connections tcp
+[5788] 02 May 02:29:05.186 * Service stopping
+[5788] 02 May 02:29:05.296 * User requested shutdown...
+[5788] 02 May 02:29:05.296 * Saving the final RDB snapshot before exiting.
+[5788] 02 May 02:29:05.296 * DB saved on disk
+[5788] 02 May 02:29:06.739 # Memurai is now ready to exit, bye bye...
+[5184] 02 May 07:39:21.167 # --- Memurai is starting ---
+[5184] 02 May 07:39:21.167 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5184, just started
+[5184] 02 May 07:39:21.167 # Service-name=Memurai
+[5184] 02 May 07:39:21.167 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5184] 02 May 07:39:21.167 # Configuration loaded
+[5184] 02 May 07:39:21.167 * monotonic clock: Windows QueryPerformanceCounter
+[5184] 02 May 07:39:21.183 * Running mode=standalone, port=6379.
+[5184] 02 May 07:39:21.183 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5184] 02 May 07:39:21.183 * Server initialized
+[5184] 02 May 07:39:21.183 * Loading RDB produced by version 7.2.4
+[5184] 02 May 07:39:21.183 * RDB age 18616 seconds
+[5184] 02 May 07:39:21.183 * RDB memory usage when created 0.72 Mb
+[5184] 02 May 07:39:21.183 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5184] 02 May 07:39:21.183 * DB loaded from disk: 0.005 seconds
+[5184] 02 May 07:39:21.198 * Ready to accept connections tcp
+[5184] 02 May 10:17:29.227 * Service stopping
+[5184] 02 May 10:17:29.305 * User requested shutdown...
+[5184] 02 May 10:17:29.305 * Saving the final RDB snapshot before exiting.
+[5184] 02 May 10:17:29.305 * DB saved on disk
+[5184] 02 May 10:17:30.767 # Memurai is now ready to exit, bye bye...
+[5608] 02 May 15:13:22.053 # --- Memurai is starting ---
+[5608] 02 May 15:13:22.053 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5608, just started
+[5608] 02 May 15:13:22.053 # Service-name=Memurai
+[5608] 02 May 15:13:22.053 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5608] 02 May 15:13:22.053 # Configuration loaded
+[5608] 02 May 15:13:22.053 * monotonic clock: Windows QueryPerformanceCounter
+[5608] 02 May 15:13:22.068 * Running mode=standalone, port=6379.
+[5608] 02 May 15:13:22.135 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5608] 02 May 15:13:22.135 * Server initialized
+[5608] 02 May 15:13:22.135 * Loading RDB produced by version 7.2.4
+[5608] 02 May 15:13:22.135 * RDB age 17753 seconds
+[5608] 02 May 15:13:22.163 * RDB memory usage when created 0.72 Mb
+[5608] 02 May 15:13:22.163 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5608] 02 May 15:13:22.163 * DB loaded from disk: 0.033 seconds
+[5608] 02 May 15:13:22.163 * Ready to accept connections tcp
+[5608] 02 May 20:12:34.672 * Service stopping
+[5608] 02 May 20:12:34.763 * User requested shutdown...
+[5608] 02 May 20:12:34.763 * Saving the final RDB snapshot before exiting.
+[5608] 02 May 20:12:34.763 * DB saved on disk
+[5608] 02 May 20:12:36.303 # Memurai is now ready to exit, bye bye...
+[5700] 02 May 23:19:14.504 # --- Memurai is starting ---
+[5700] 02 May 23:19:14.504 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5700, just started
+[5700] 02 May 23:19:14.504 # Service-name=Memurai
+[5700] 02 May 23:19:14.529 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5700] 02 May 23:19:14.561 # Configuration loaded
+[5700] 02 May 23:19:14.574 * monotonic clock: Windows QueryPerformanceCounter
+[5700] 02 May 23:19:14.579 * Running mode=standalone, port=6379.
+[5700] 02 May 23:19:14.599 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5700] 02 May 23:19:14.604 * Server initialized
+[5700] 02 May 23:19:14.604 * Loading RDB produced by version 7.2.4
+[5700] 02 May 23:19:14.604 * RDB age 11200 seconds
+[5700] 02 May 23:19:14.604 * RDB memory usage when created 0.72 Mb
+[5700] 02 May 23:19:14.609 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5700] 02 May 23:19:14.609 * DB loaded from disk: 0.004 seconds
+[5700] 02 May 23:19:14.609 * Ready to accept connections tcp
+[5700] 03 May 00:47:32.955 * Service stopping
+[5700] 03 May 00:47:33.065 * User requested shutdown...
+[5700] 03 May 00:47:33.065 * Saving the final RDB snapshot before exiting.
+[5700] 03 May 00:47:33.065 * DB saved on disk
+[5700] 03 May 00:47:34.571 # Memurai is now ready to exit, bye bye...
+[5920] 03 May 00:48:13.175 # --- Memurai is starting ---
+[5920] 03 May 00:48:13.175 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5920, just started
+[5920] 03 May 00:48:13.175 # Service-name=Memurai
+[5920] 03 May 00:48:13.191 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5920] 03 May 00:48:13.191 # Configuration loaded
+[5920] 03 May 00:48:13.191 * monotonic clock: Windows QueryPerformanceCounter
+[5920] 03 May 00:48:13.191 * Running mode=standalone, port=6379.
+[5920] 03 May 00:48:13.211 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5920] 03 May 00:48:13.211 * Server initialized
+[5920] 03 May 00:48:13.211 * Loading RDB produced by version 7.2.4
+[5920] 03 May 00:48:13.230 * RDB age 40 seconds
+[5920] 03 May 00:48:13.230 * RDB memory usage when created 0.72 Mb
+[5920] 03 May 00:48:13.230 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5920] 03 May 00:48:13.230 * DB loaded from disk: 0.015 seconds
+[5920] 03 May 00:48:13.230 * Ready to accept connections tcp
+[5920] 03 May 00:48:35.853 * Service stopping
+[5920] 03 May 00:48:35.931 * User requested shutdown...
+[5920] 03 May 00:48:35.931 * Saving the final RDB snapshot before exiting.
+[5920] 03 May 00:48:35.931 * DB saved on disk
+[5920] 03 May 00:48:37.337 # Memurai is now ready to exit, bye bye...
+[6028] 03 May 12:13:55.932 # --- Memurai is starting ---
+[6028] 03 May 12:13:55.932 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=6028, just started
+[6028] 03 May 12:13:55.937 # Service-name=Memurai
+[6028] 03 May 12:13:55.937 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[6028] 03 May 12:13:55.940 # Configuration loaded
+[6028] 03 May 12:13:55.942 * monotonic clock: Windows QueryPerformanceCounter
+[6028] 03 May 12:13:55.972 * Running mode=standalone, port=6379.
+[6028] 03 May 12:13:56.022 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[6028] 03 May 12:13:56.022 * Server initialized
+[6028] 03 May 12:13:56.027 * Loading RDB produced by version 7.2.4
+[6028] 03 May 12:13:56.027 * RDB age 41121 seconds
+[6028] 03 May 12:13:56.027 * RDB memory usage when created 0.72 Mb
+[6028] 03 May 12:13:56.027 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[6028] 03 May 12:13:56.027 * DB loaded from disk: 0.003 seconds
+[6028] 03 May 12:13:56.032 * Ready to accept connections tcp
+[6028] 03 May 13:21:53.134 * Service stopping
+[6028] 03 May 13:21:53.228 * User requested shutdown...
+[6028] 03 May 13:21:53.228 * Saving the final RDB snapshot before exiting.
+[6028] 03 May 13:21:53.228 * DB saved on disk
+[6028] 03 May 13:21:55.143 # Memurai is now ready to exit, bye bye...
+[5916] 03 May 15:04:06.888 # --- Memurai is starting ---
+[5916] 03 May 15:04:06.888 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5916, just started
+[5916] 03 May 15:04:06.888 # Service-name=Memurai
+[5916] 03 May 15:04:06.888 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5916] 03 May 15:04:06.888 # Configuration loaded
+[5916] 03 May 15:04:06.888 * monotonic clock: Windows QueryPerformanceCounter
+[5916] 03 May 15:04:06.892 * Running mode=standalone, port=6379.
+[5916] 03 May 15:04:06.924 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5916] 03 May 15:04:06.929 * Server initialized
+[5916] 03 May 15:04:06.929 * Loading RDB produced by version 7.2.4
+[5916] 03 May 15:04:06.939 * RDB age 6133 seconds
+[5916] 03 May 15:04:06.943 * RDB memory usage when created 0.72 Mb
+[5916] 03 May 15:04:06.949 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5916] 03 May 15:04:06.949 * DB loaded from disk: 0.022 seconds
+[5916] 03 May 15:04:06.954 * Ready to accept connections tcp
+[5916] 03 May 20:12:27.900 * Service stopping
+[5916] 03 May 20:12:27.994 * User requested shutdown...
+[5916] 03 May 20:12:27.994 * Saving the final RDB snapshot before exiting.
+[5916] 03 May 20:12:27.994 * DB saved on disk
+[5916] 03 May 20:12:29.605 # Memurai is now ready to exit, bye bye...
+[6056] 04 May 01:43:51.631 # --- Memurai is starting ---
+[6056] 04 May 01:43:51.636 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=6056, just started
+[6056] 04 May 01:43:51.636 # Service-name=Memurai
+[6056] 04 May 01:43:51.636 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[6056] 04 May 01:43:51.655 # Configuration loaded
+[6056] 04 May 01:43:51.655 * monotonic clock: Windows QueryPerformanceCounter
+[6056] 04 May 01:43:51.659 * Running mode=standalone, port=6379.
+[6056] 04 May 01:43:51.739 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[6056] 04 May 01:43:51.745 * Server initialized
+[6056] 04 May 01:43:51.745 * Loading RDB produced by version 7.2.4
+[6056] 04 May 01:43:51.745 * RDB age 19884 seconds
+[6056] 04 May 01:43:51.745 * RDB memory usage when created 0.72 Mb
+[6056] 04 May 01:43:51.745 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[6056] 04 May 01:43:51.745 * DB loaded from disk: 0.003 seconds
+[6056] 04 May 01:43:51.745 * Ready to accept connections tcp
+[6056] 04 May 02:40:55.501 * Service stopping
+[6056] 04 May 02:40:55.517 * User requested shutdown...
+[6056] 04 May 02:40:55.517 * Saving the final RDB snapshot before exiting.
+[6056] 04 May 02:40:55.517 * DB saved on disk
+[6056] 04 May 02:40:56.964 # Memurai is now ready to exit, bye bye...
+[5856] 04 May 09:58:30.556 # --- Memurai is starting ---
+[5856] 04 May 09:58:30.556 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5856, just started
+[5856] 04 May 09:58:30.556 # Service-name=Memurai
+[5856] 04 May 09:58:30.556 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5856] 04 May 09:58:30.556 # Configuration loaded
+[5856] 04 May 09:58:30.561 * monotonic clock: Windows QueryPerformanceCounter
+[5856] 04 May 09:58:30.561 * Running mode=standalone, port=6379.
+[5856] 04 May 09:58:30.595 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5856] 04 May 09:58:30.595 * Server initialized
+[5856] 04 May 09:58:30.600 * Loading RDB produced by version 7.2.4
+[5856] 04 May 09:58:30.600 * RDB age 26255 seconds
+[5856] 04 May 09:58:30.600 * RDB memory usage when created 0.72 Mb
+[5856] 04 May 09:58:30.600 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5856] 04 May 09:58:30.600 * DB loaded from disk: 0.004 seconds
+[5856] 04 May 09:58:30.609 * Ready to accept connections tcp
+[5856] 04 May 13:16:26.465 * Service stopping
+[5856] 04 May 13:16:26.528 * User requested shutdown...
+[5856] 04 May 13:16:26.528 * Saving the final RDB snapshot before exiting.
+[5856] 04 May 13:16:26.528 * DB saved on disk
+[5856] 04 May 13:16:28.144 # Memurai is now ready to exit, bye bye...
+[6060] 04 May 14:08:42.510 # --- Memurai is starting ---
+[6060] 04 May 14:08:42.510 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=6060, just started
+[6060] 04 May 14:08:42.510 # Service-name=Memurai
+[6060] 04 May 14:08:42.513 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[6060] 04 May 14:08:42.513 # Configuration loaded
+[6060] 04 May 14:08:42.526 * monotonic clock: Windows QueryPerformanceCounter
+[6060] 04 May 14:08:42.533 * Running mode=standalone, port=6379.
+[6060] 04 May 14:08:42.543 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[6060] 04 May 14:08:42.543 * Server initialized
+[6060] 04 May 14:08:42.543 * Loading RDB produced by version 7.2.4
+[6060] 04 May 14:08:42.548 * RDB age 3136 seconds
+[6060] 04 May 14:08:42.548 * RDB memory usage when created 0.72 Mb
+[6060] 04 May 14:08:42.548 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[6060] 04 May 14:08:42.548 * DB loaded from disk: 0.003 seconds
+[6060] 04 May 14:08:42.548 * Ready to accept connections tcp
+[6060] 04 May 20:02:45.583 * Service stopping
+[6060] 04 May 20:02:45.662 * User requested shutdown...
+[6060] 04 May 20:02:45.662 * Saving the final RDB snapshot before exiting.
+[6060] 04 May 20:02:45.662 * DB saved on disk
+[6060] 04 May 20:02:47.094 # Memurai is now ready to exit, bye bye...
+[5668] 04 May 20:23:27.306 # --- Memurai is starting ---
+[5668] 04 May 20:23:27.306 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5668, just started
+[5668] 04 May 20:23:27.306 # Service-name=Memurai
+[5668] 04 May 20:23:27.306 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5668] 04 May 20:23:27.306 # Configuration loaded
+[5668] 04 May 20:23:27.311 * monotonic clock: Windows QueryPerformanceCounter
+[5668] 04 May 20:23:27.316 * Running mode=standalone, port=6379.
+[5668] 04 May 20:23:27.351 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E9D1D48DCCA204;D0E97FD48DCC16AE
+[5668] 04 May 20:23:27.390 * Server initialized
+[5668] 04 May 20:23:27.401 * Loading RDB produced by version 7.2.4
+[5668] 04 May 20:23:27.401 * RDB age 1242 seconds
+[5668] 04 May 20:23:27.401 * RDB memory usage when created 0.72 Mb
+[5668] 04 May 20:23:27.401 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5668] 04 May 20:23:27.401 * DB loaded from disk: 0.005 seconds
+[5668] 04 May 20:23:27.406 * Ready to accept connections tcp
+[5668] 04 May 20:32:42.210 * Service stopping
+[5668] 04 May 20:32:42.226 * User requested shutdown...
+[5668] 04 May 20:32:42.226 * Saving the final RDB snapshot before exiting.
+[5668] 04 May 20:32:42.226 * DB saved on disk
+[5668] 04 May 20:32:43.591 # Memurai is now ready to exit, bye bye...
+[5852] 05 May 00:04:04.312 # --- Memurai is starting ---
+[5852] 05 May 00:04:04.312 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5852, just started
+[5852] 05 May 00:04:04.312 # Service-name=Memurai
+[5852] 05 May 00:04:04.328 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5852] 05 May 00:04:04.328 # Configuration loaded
+[5852] 05 May 00:04:04.333 * monotonic clock: Windows QueryPerformanceCounter
+[5852] 05 May 00:04:04.339 * Running mode=standalone, port=6379.
+[5852] 05 May 00:04:04.362 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5852] 05 May 00:04:04.367 * Server initialized
+[5852] 05 May 00:04:04.367 * Loading RDB produced by version 7.2.4
+[5852] 05 May 00:04:04.377 * RDB age 12682 seconds
+[5852] 05 May 00:04:04.383 * RDB memory usage when created 0.72 Mb
+[5852] 05 May 00:04:04.388 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5852] 05 May 00:04:04.392 * DB loaded from disk: 0.022 seconds
+[5852] 05 May 00:04:04.392 * Ready to accept connections tcp
+[5852] 05 May 02:27:55.106 * Service stopping
+[5852] 05 May 02:27:55.185 * User requested shutdown...
+[5852] 05 May 02:27:55.185 * Saving the final RDB snapshot before exiting.
+[5852] 05 May 02:27:55.185 * DB saved on disk
+[5852] 05 May 02:27:59.052 # Memurai is now ready to exit, bye bye...
+[5804] 05 May 09:10:53.038 # --- Memurai is starting ---
+[5804] 05 May 09:10:53.038 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5804, just started
+[5804] 05 May 09:10:53.038 # Service-name=Memurai
+[5804] 05 May 09:10:53.038 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5804] 05 May 09:10:53.054 # Configuration loaded
+[5804] 05 May 09:10:53.057 * monotonic clock: Windows QueryPerformanceCounter
+[5804] 05 May 09:10:53.057 * Running mode=standalone, port=6379.
+[5804] 05 May 09:10:53.070 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5804] 05 May 09:10:53.070 * Server initialized
+[5804] 05 May 09:10:53.070 * Loading RDB produced by version 7.2.4
+[5804] 05 May 09:10:53.085 * RDB age 24178 seconds
+[5804] 05 May 09:10:53.085 * RDB memory usage when created 0.72 Mb
+[5804] 05 May 09:10:53.085 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5804] 05 May 09:10:53.085 * DB loaded from disk: 0.018 seconds
+[5804] 05 May 09:10:53.085 * Ready to accept connections tcp
+[5804] 05 May 20:18:20.129 * Service stopping
+[5804] 05 May 20:18:20.239 * User requested shutdown...
+[5804] 05 May 20:18:20.239 * Saving the final RDB snapshot before exiting.
+[5804] 05 May 20:18:20.239 * DB saved on disk
+[5804] 05 May 20:18:21.695 # Memurai is now ready to exit, bye bye...
+[5736] 05 May 21:18:20.244 # --- Memurai is starting ---
+[5736] 05 May 21:18:20.244 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5736, just started
+[5736] 05 May 21:18:20.244 # Service-name=Memurai
+[5736] 05 May 21:18:20.244 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5736] 05 May 21:18:20.249 # Configuration loaded
+[5736] 05 May 21:18:20.249 * monotonic clock: Windows QueryPerformanceCounter
+[5736] 05 May 21:18:20.280 * Running mode=standalone, port=6379.
+[5736] 05 May 21:18:20.330 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5736] 05 May 21:18:20.330 * Server initialized
+[5736] 05 May 21:18:20.364 * Loading RDB produced by version 7.2.4
+[5736] 05 May 21:18:20.364 * RDB age 3600 seconds
+[5736] 05 May 21:18:20.368 * RDB memory usage when created 0.72 Mb
+[5736] 05 May 21:18:20.368 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5736] 05 May 21:18:20.380 * DB loaded from disk: 0.016 seconds
+[5736] 05 May 21:18:20.380 * Ready to accept connections tcp
+[5736] 06 May 04:30:12.181 * Service stopping
+[5736] 06 May 04:30:12.213 * User requested shutdown...
+[5736] 06 May 04:30:12.213 * Saving the final RDB snapshot before exiting.
+[5736] 06 May 04:30:12.213 * DB saved on disk
+[5736] 06 May 04:30:13.861 # Memurai is now ready to exit, bye bye...
+[5340] 06 May 08:23:06.397 # --- Memurai is starting ---
+[5340] 06 May 08:23:06.397 # Memurai Developer version=4.1.1, API=7.2.4, instance-name=, pid=5340, just started
+[5340] 06 May 08:23:06.402 # Service-name=Memurai
+[5340] 06 May 08:23:06.402 # Usage of Memurai Developer Edition in a production environment is prohibited; it also automatically shuts down after 10 days. For more details see: https://www.memurai.com/faq
+[5340] 06 May 08:23:06.402 # Configuration loaded
+[5340] 06 May 08:23:06.402 * monotonic clock: Windows QueryPerformanceCounter
+[5340] 06 May 08:23:06.407 * Running mode=standalone, port=6379.
+[5340] 06 May 08:23:06.417 # Memurai QID = FD803CF6A21C17A4;80AC397098AED265;D0E9D2D48DCCA3B7;D0E97FD48DCC16AE
+[5340] 06 May 08:23:06.417 * Server initialized
+[5340] 06 May 08:23:06.423 * Loading RDB produced by version 7.2.4
+[5340] 06 May 08:23:06.423 * RDB age 13974 seconds
+[5340] 06 May 08:23:06.423 * RDB memory usage when created 0.72 Mb
+[5340] 06 May 08:23:06.423 * Done loading RDB, keys loaded: 0, keys expired: 0.
+[5340] 06 May 08:23:06.423 * DB loaded from disk: 0.003 seconds
+[5340] 06 May 08:23:06.423 * Ready to accept connections tcp
